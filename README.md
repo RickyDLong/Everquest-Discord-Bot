@@ -6,3 +6,6 @@ Everquest has .txt log file that logs all chat and combat live as it happens in 
 This is what the data looks like raw from the games log file:
 
 ![Alt text](https://github.com/RickyDLong/Everquest-Discord-Bot/blob/main/EQLog.PNG?raw=true)
+
+
+Once the initial application has been created, I would like to implement API calls directly inside Discord so that I can retrieve information directly from the game.
