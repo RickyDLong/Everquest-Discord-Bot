@@ -1,9 +1,15 @@
-from discord import Webhook, RequestsWebhookAdapter
+
 import time
 import os
 import glob
+import argparse
 
-#Working directory of the Everquest Log files
+#WIP
+parser = argparse.ArgumentParser(description='Target Directory')
+parser.add_argument('--dir', action='store', dest='dir')
+args = parser.parse_args()
+
+#Working directory of the Everquest Log files (Temporary)
 directory = 'E:\\Project1999\\Logs\\eqlog_Virx_project1999.txt'
 
 #Grabbing the latest file in the Everquest Log Directory
@@ -20,14 +26,31 @@ def follow(theFile):
             continue
         yield line
 
+#Returns trailing line from logfile
+def getLogLines():
+    logfile = open(fileName)
+    loglines = follow(logfile)
+    return loglines
 
-#Tries to distinguish item names typed in chat and return when one is found.
+#Searches through last line of logfile, splits items by " " delimiter
+#places into list and returns the player name and items found from findItems()
+def findAuction():
+    for logline in getLogLines():
+        word = logline.split(" ")
+        if(word[6]!= 'auctions,'):
+            continue
+        charName = word[5]
+        print(logline.rstrip())
+        print(charName)
+        for item in findItems():
+            if logline.upper().find(item.upper())>0:
+                print(f"  {item}")   
+
+#Searches through log file, finds last line, compares string
+#to logfile object and returns found objects.
 def findItems():
-    #Initiate an item list
     items = []
-    #Initiates follow() to trail the chat log
     logfile = open('Item List.txt')
-    #Loop that watches the last log line and adds it to the items list.
     for item in logfile:
         if(item.strip() == ""):
             continue
@@ -36,20 +59,15 @@ def findItems():
     return items
 
 
+
+'''
+def findItems():
+    delimeters = [",", "/", "-", ".", "|"]
+    for logline in getLogLines():
+'''
+
 def main():
-    items = findItems()
-    logfile = open(fileName)
-    loglines = follow(logfile)
-    for logline in loglines:
-        word = logline.split(" ")
-        #If keyword 'auctions,' isn't in the string, ignore it.
-        if(word[6]!= 'auctions,'):
-            continue
-        print(logline.rstrip())
-        for item in items:
-            #Ignore case
-            if logline.upper().find(item.upper())>0:
-                print(f"  {item}")
+    findAuction()
 
 if __name__=="__main__":
     main()
