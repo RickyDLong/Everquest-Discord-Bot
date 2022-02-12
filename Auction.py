@@ -1,6 +1,5 @@
-
-import time
 import os
+import time
 import glob
 import argparse
 
@@ -9,6 +8,8 @@ import argparse
 parser = argparse.ArgumentParser(description='Target Directory')
 parser.add_argument('--dir', action='store', dest='dir')
 args = parser.parse_args()
+
+#------Everquest Log Parsing-------
 
 #Working directory of the Everquest Log files (Temporary)
 directory = 'E:\\Project1999\\Logs\\eqlog_Virx_project1999.txt'
@@ -26,7 +27,7 @@ def sortItemList():
             continue
         if(not item.rstrip() in items):
             items.append(item.rstrip())
-    return items
+            return items
 
 #Collecting the last line of the specified log file.
 #Returns the last line of the file in real time
@@ -55,16 +56,26 @@ def parseAuction():
         word = logline.split(" ")
         if(word[6]!= 'auctions,'):
             continue
-        charName = word[5]
         print(logline.rstrip())
-        print(charName)
         for item in sortItemList():
             if logline.upper().find(item.upper())>0:
-                print(f"  {item}")
+                return item
 
+def parseCharName():
+    for logline in getLogLines():
+        word = logline.split(" ")
+        if(word[6]!= 'auctions,'):
+            continue
+        charName = word[5]
+        for get in logline:
+            if logline.upper().find(charName.upper())>0:
+                return charName
+
+def main():
+    parseAuction()
 
 if __name__=="__main__":
-    parseAuction()
+    main()
 
 
 
