@@ -1,0 +1,6314 @@
+Beholder Optic Fluid
+Block of Clay
+Block of Ore
+Brahhms Horn
+Bunch of Optic Nerves
+Damaged Annals
+Dusty Old Leg Bone
+Electrum Bar
+Evil Eye Eyestalk
+Heavy Clay
+Labyrinth Talisman
+Large Brick of Ore
+Lens of Lord Soptyvr
+Minotaur Ribcage
+Muddite Mud
+Polished Bone Bracelet
+Quartz Crystal
+Ring of Xorbb
+Silver Bar
+Slime Crystal Staff
+Small Block of Clay
+Small Brick of Ore
+Small Buckler
+Small Piece of Ore
+Whirling Agate
+Whirling Amber
+Whirling Bloodstone
+Whirling Carnelian
+Whirling Crystal
+Whirling Hematite
+Whirling Jasper
+Whirling Lapis Lazuli
+Whirling Malachite
+Whirling Onyx
+Whirling Quartz
+Whirling Turquoise
+Bronze Flail
+Bronze Halberd
+Bronze Two Handed Hammer
+Deathfist Slashed Belt
+Embalming Dust
+Giant Fire Beetle Leg
+Griffon Feathers
+Human Head
+Large Fire Beetle Patella
+Large Fire Beetle Sternite
+Large Fire Beetle Tarsus
+Large Snake Rattle
+Orc Pawn Pick
+Puma Skin
+Shadow Wolf Pelt
+Warped Great Staff
+Ajrah Leaf
+Bandit Sash
+Gnoll Scalp
+H.K. 401
+Halfling Knife
+Halfling Parts
+Monogrammed cloth
+Rain of Karana
+Sir Gregon's Head
+Staff Segment
+Barbarian Meat
+Barbarian Rib
+Bloody Dirk
+Bloody Mantle
+Chunk of Tundra
+Cloak of the Ice Bear
+Combine Dagger
+Cyclamine Corm
+Delius Thyme's Diary Pg. 74
+Delius Thyme's Diary Pg. 75
+Delius Thyme's Diary Pg. 76
+Diamond Dust
+Dusty Old Jawbone
+Essence of Winter
+Garsen's Brewing List
+Gigantic Zweihander
+Glacier Bear Pelt
+Gnoll Pup Scalp
+Goblin Ice Necklace
+Ice Giant Toes
+Ice Goblin Blood
+Ichor
+Ingot of the Ardent
+Ingot of the Devout
+Lixt Wing Stalk
+Mammoth Calf Hide
+Mammoth Meat
+Mammoth Rib Bone
+Mammoth Tusks
+Miragul's Head
+Miragul's Robe
+One Hand Pick
+Parrying Pick
+Permafrost Crystals
+Polar Bear Skin
+Rune of Ivy
+Small Mammoth Tusks
+Supplier's Head
+Tares Lichen
+Throwing Boulder
+Tishan's Kilt
+Warthread Kilt
+Winter Lilly
+Wooly Fungus
+Wrath Orc Wristbands
+Bayle List I
+Cracked Darkwood Shield
+Head of Stanos
+Icon of the Fervent
+Page 30 of a Book
+Polished Granite Tomahawk
+Sealed Letter
+Shiny Brass Halberd
+Shiny Brass Idol
+Shralok Pack
+Stald's Badge
+A Noble's Crest
+Very Large Pelt
+Alligator Skin
+Alligator Tooth
+Frog Eye Necklace
+Froglok Tadpole Flesh
+High Elf Flesh
+Huge Mushroom Head
+Human Flesh
+Human Parts
+Innothule Mushroom
+Intestine Necklace
+Large Patchwork Tunic
+Large Ruby (Eye of Toque)
+Longbow
+Netted Cap
+Netted Cape
+Netted Choker
+Netted Girth
+Netted Gloves
+Netted Mantle
+Netted Mask
+Netted Pants
+Netted Shirt
+Netted Sleeves
+Netted Wristband
+Ogre Arm
+Sarcoscypha Fungus
+Woven Cap
+Woven Cape
+Woven Collar
+Woven Girth
+Woven Gloves
+Woven Leggings
+Woven Mantle
+Woven Mask
+Woven Sleeves
+Woven Tunic
+Woven Wristbands
+Argent Defender
+Ashenbone Shield
+Bixie Wing
+Blood Riven Axe
+Bronze Warhammer
+Cazic Quill
+Edge of the Nightwalker
+Elegant Darkwood Katana
+Enchanted Fine Steel Morning Star
+Enchanted Fine Steel Rapier
+Enchanted Teir`Dal Great Staff
+Essence of Moonlight
+Gem-Encrusted Scepter
+General's Pouch
+Indigo Sabre
+Ingot of the Reliant
+Peculiar Tiger Pelt
+Pugius
+Robe of the Ishva
+Robe of the Kedge
+Ruined Battleworn Morning Star
+Ruined Steel Bastard Sword
+Ruined Teir`Dal Great Staff
+Ruined Teir`Dal Long Sword
+Ruined Teir`Dal Rapier
+Runebladed Sword of Night
+Runebranded Girdle
+Scimitar of the Ykesha
+Shriveled Flesh
+Strange Tiger Pelt
+Tainted Battleworn Morning Star
+Tainted Steel Bastard Sword
+Teir`Dal Adamantite Greaves (Dropped)
+Torn Page of Magi`kot pg. 1
+Unusual Tiger Pelt
+Apprentice Ring
+Blackburrow Gnoll Pelt
+Book of Darkness
+Clean Lakewater
+Damaged Goblin Crown
+Deepwater Goblin Net
+Gnoll Fang
+Golden Ear Stud
+Heart of Stone
+Lord Bergurgle's Crown
+Opoline Helm
+Plasmatic Priest Robe
+Rod of Bone
+Runed Totem Staff
+Shark Skin
+Skull of Jhen`Tra
+Snakeskin Gloves
+Snakeskin Jerkin
+Snakeskin Mask
+Symbol of Insanity
+Teir`Dal Robe Red
+Tree Snake Fang
+Triumvirate Missionary Robe
+Twisted Bone Earring
+Unjeweled Dragon Head Hilt
+Velvet Choker
+Water Crystal Staff
+Ashweed
+Asmag Weed
+Basilisk Egg
+Basilisk Eggs
+Basilisk Eye Stalk
+Bloodstone Earring
+Bone Fingered Gloves
+Bone Spear
+Charred Scale
+Essence of Fire
+Fiery Ore
+Fire Drake Scale
+Glowing Gloves
+Glowing Torch
+Goblin Scout Beads
+Goblin Supply Pouch
+Imp Blood
+Large Bone Shield
+Lava Rock
+Pouch of Red Dust
+Putrid Bile
+Runner Pouch
+Second Riddle for the Troll
+Soot Hemlock
+Testimony
+Bixie Parts
+Bixie Stinger
+Large Sewing Kit
+Clay Totem
+Froglok Leg
+Giant Wasp Eye
+Giant Wasp Venom Sac
+Honeycomb
+Humerus Handled Mace
+Illegible Cantrip
+Ribcage Chest Armor
+RunnyEye Warbeads
+Shattered Warbeads
+Wasp Wing
+Eye of Shadow
+First Riddle for the Troll
+Halfling Druid Master's Head
+Halfling Toe
+Hand of Shadow
+Leathered Zombie Flesh
+Leatherfoot Short Bow
+Lock of Zombie Hair
+Piranha Tooth
+Raw Darkwater Piranha
+Robe of Discord
+Shadow Wolf Paw
+Shadowed Ball
+Shadowed Battle Axe
+Shadowed Scimitar
+Shadowed Two Handed Hammer
+Shadowed Two Handed Sword
+Staff of Discord
+Tainted Darksteel Shield
+Tattered Journal Page 1
+Tattered Journal Page 2
+Tattered Journal Page 3
+Vial of Halfling Blood
+Woven Grass Amulet
+Bastard Sword
+Black Headband
+Emerald Shard
+Giant Fire Beetle Eye
+Koalindl Fish
+Rat Head
+Tarnished Mace
+Wooden Totem
+Armadillo Carapace
+Armadillo Hide
+Armadillo Husk
+Armadillo Meat
+Armadillo Tooth
+Asp Poison Sac
+Bronze Axe
+Bronze Warclub
+Cracked Giant Scarab Carapace
+Cutthroat Golden Tooth
+Cutthroat Insignia Ring
+Damaged Militia Helm
+Deathfist Pawn Scalp
+Desert Tarantula Chitin
+Giant Scarab Legs
+Kite Shield
+Locked Book
+Pickbringers Chainmail Coif
+Pickbringers Chainmail Faceguard
+Pristine Giant Scarab Carapace
+Rattlesnake Skin
+Sand of Ro
+Scarab Ring
+Scepter of Rahotep
+Scute Shield
+A Gypsy Medallion
+Aegis of Life
+Bag of Troll Guts
+Bear-hide Jerkin
+Belt of Flesh Hooks
+Cracked Corrupt Guard Helm
+Crystal Ring
+Giant Laceless Sandal
+Giants Reminder String
+Granite Earring
+Griffenne Charm
+Griffenne Downfeather
+Griffon Eye
+Griffon Talon Gloves
+High Quality Lion Skin
+Ingot of the Reverent
+Iron Shackles
+Lianna's Flute
+Lion-Skin Leggings
+Lion-skin Leggings
+Low Quality Lion Skin
+Medium Quality Lion Skin
+Pair of Bent Spectacles
+Putrid Bear Hide
+Silver Griffon Feathers
+Sir Gerwin's Head
+Superb Bear Hide
+Superb Lion Skin
+Superb Wolf Hide
+Very Tiny Crumpled Skeleton
+Werewolf-hide Jerkin
+Wild Cabbage
+Wolf-hide Sleeves
+Bag of Sea Salt
+Glowing Wooden Crook
+Lockjaw Hide Vest
+A Doll
+Shadowed Knife
+Alluring Horn
+Bonechipped Mask
+Bracers of Erollisi
+Bronze Scythe
+Chunk of Ogre Flesh
+Driftwood Pipe
+Ebon War Spear
+Elven Blood
+Fire Giant Toes
+Globe of Fear
+Ingot of the Fervent
+Large Locked Crate
+Mermaid Scale
+Mug of Sea Foam
+Ocean of Tears Seavines
+Ogre Head
+Pirate's Earring
+Purity Belt
+Quiver of Kithicor - open
+Ring of the Ancients
+Robe of the Oracle
+Saltwater Seaweed
+Scythe
+Size 4 Gizmo
+Size 5 Gizmo
+Size 6 Gizmo
+Stone Totem
+Tattered Recipe
+Teir`Dal Head
+Blue Training Robe*
+Bronze Two Handed Battle Axe
+Courier's Head
+Crate full of Ore
+Cros Treewind's Staff
+Diseased Wolf Pelt
+Ebon Lotus (Item)
+Fishbone Earring
+Fleshy Orb
+A Glowing Black Stone
+Gnoll Head
+Gnoll Pelvis
+Grilled Rat Ears
+Kerran Doll
+Mandolin
+Note to Niclaus
+Pouch of Evidence
+Putrid Rib Bone
+Rabid Wolf Hide
+Ruined Gnoll Chain Sleeves
+Shield of Nife
+Sironans Head
+Skullcap of Rodcet Nife
+Surefall Sap
+Tovaxs Necklace
+Yalroens Head
+Charred Bone Chips
+Fine Silk Turban
+Fishing Pole
+Forged Dagger
+Gargantuan Tarantula Heart
+Gargantuan Tarantula Leg
+Jambiya
+Kilij Plans
+Large Rattlesnake Skin
+Orcish Mace
+Ro Dates
+Scrounge's Claw
+Scrounge's Pelt
+Spoon
+Terrorantula Silk
+Torn Sash
+A Locket
+A Wooden Heart
+Aviak Charm
+Aviak Feathers
+Bark Shield
+Beartooth Necklace
+Bull Elephant Tooth
+Charger Hoof Chips
+Cloak of Leaves
+Cracked Flute
+Crown of Leaves
+Cyclops skull
+Dagger of Dropping
+Dareb's Skull
+Decaying Heart
+Double-Bladed Bone Axe
+Electrum Bracelet
+Feathered Leggings
+Fractured Centaur Hoof
+Gigantic Chipped Tusk
+Gigantic Cracked Tusk
+Gnawfang's Pelt
+Gnawfang's Tooth
+Gnoll Hide Lariat
+Gnoll Hide Tome
+Great Staff
+Grizzleknot Bark
+Head of Ghanex Drah
+Head of Markus Cachexia
+Head of Morley Murrain
+Head of Shen
+Hulking Spiked Club
+Ivory Inlaid Great Staff
+Lionhide Backpack
+Mroons Toy
+Pegasus Feather Cloak
+Pestilence Scythe
+Pestilence Scythe (droppable)
+Preserved Split Paw Eye
+Raw Silk Robe
+Ring of Shadows
+Robe of the Lost Circle
+Ruby Pendant
+Runed Oak Bow
+Serrated Blade
+Silverish Scimitar
+Sir Telian's Head
+Split Paw Hide Belt
+Split Paw Hide Gloves
+Split Paw Hide Mask
+Split Paw Hide Tunic
+Split Paw Tooth Necklace
+Tanned Split Paw Skin
+Thunderhoof Quiver
+Topknot Headband
+Treant Staff
+Vial of Rabid Froth
+Werewolf Claws
+Werewolf Pelt
+Winds of Karana sheet 1
+Winds of Karana sheet 2
+Wolves Bane
+Wooden Shards
+A Crude Stein
+Alligator Egg
+Allize Volew Medicine Bag
+Bronze Brazier
+Bronze Jutte
+Lizard Meat
+Lizard Tail
+Lizardman Scout Fife
+Lizardskin Tribal Mask
+Mystic Doll
+Ogreskin Chamois
+Swollen Flesh
+Torn Page of Mastery Earth
+Deathfist Shoulderpads
+Sealed Note
+Legionnaire's Bracer
+Nightfall Giant's Head
+Plains Roots
+Preserved Snake Eye
+Raw Short Sword 4
+Revenant Ash
+Third Riddle for the Troll
+Words of Possession
+A Strategic Map of Kithicor
+Bone Armplates
+Bone Legplates
+Busted Prayer Beads
+Ceramic Dirk
+Chipped Bone Bracelet
+Chipped Bone Collar
+Giant Snakespine Belt
+Glowing Bone Collar
+Guard Bracelet
+Human Heart
+Jack-O-Lantern Fungus
+Large Bronze Boots
+Large Bronze Bracers
+Large Bronze Breastplate
+Large Bronze Collar
+Large Bronze Gauntlets
+Large Bronze Greaves
+Large Bronze Helm
+Large Bronze Mask
+Large Bronze Pauldron
+Large Bronze Vambraces
+Large Splinted Bronze Cloak
+Live Enchanted Rat: Jar 1
+Live Enchanted Rat: Jar 2
+Live Enchanted Rat: Jar 3
+Lupine Runed Armband
+Maligar's Head
+Message in Thieves Cant
+Miller Carrot
+Old Used Robe*
+Order of Thunder
+Rat Shaped Ring
+Rune of the One Eye
+Sack of Hay
+Serpent Insignia Collar
+Sheer Bone Mask
+Short Sword
+Sir Arlindo's Head
+Turtleshell Helm
+White Paper
+Bayle List II
+Mammoth's Hide
+Poacher's Head
+Antiqued Silver Band
+Barbed Armplates
+Barbed Legplates
+Blackened Wand
+Bone Bladed Claymore
+Charred Bone Key
+Chipped Bone Rod
+Copper Ring (Ring of Opolla)
+Dagger of Marnek
+Damask Amice
+Damask Cap
+Damask Cape
+Damask Collar
+Damask Gloves
+Damask Leggings
+Damask Robe
+Damask Sash
+Damask Sleeves
+Damask Veil
+Damask Wristbands
+Icon of the Ardent
+Mallet Head
+Mallet Hilt
+Mallet Stem
+Platinum Ring
+Smoked Glass Key
+Soft Leather Boots
+Splintered Wooden Key
+Thaumaturgist's Robe
+Baby Joseph Sayer
+Blackburrow Battle Plans
+Blackburrow Cask
+Blackburrow Gnoll Skin
+Onyx Earring
+Ruined Blackburrow Gnoll Pelt
+Rusty Spiked Shoulderpads
+Spiked Collar
+Studded Leather Collar
+A Broom
+A Shovel
+Ball of Golem Clay
+Bladed Thulian Claws
+Boots of Flowing Slime
+Clump of Gorilla Hair
+Decayed Breastplate
+Decayed Chainmail
+Decayed Helm
+Decayed Left Boot
+Decayed Left Bracer
+Decayed Left Gauntlet
+Decayed Left Legplate
+Decayed Left Vambrace
+Decayed Right Boot
+Decayed Right Bracer
+Decayed Right Gauntlet
+Decayed Right Legplate
+Decayed Right Vambrace
+Decayed Visor
+Flawless Tae Ew Hide
+Golem Metal Wand
+Grimy Lance
+Lizard Blood Potion
+Lizardscale Belt
+Lizardscale Cloak
+Lizardscale Mantle
+Mudwater Rune
+Radiant Gloves
+Ravenscale Armguards
+Ravenscale Boots
+Ravenscale Bracer
+Ravenscale Chestguard
+Ravenscale Coif
+Ravenscale Gloves
+Ravenscale Leggings
+Ring of Evoluoy
+Shard of Golem Stone
+Silver Wand
+Stein
+Torn Page of Mastery Fire
+Torn Page of Mastery Wind
+A Vile Substance
+Beaded Slime Necklace
+Black Alloy Girdle
+Black Alloy Medallion
+Black Iron Girdle
+Black Iron Medallion
+Blackened Iron Armplates
+Blackened Iron Bastard Sword
+Blackened Iron Boots
+Blackened Iron Bracers
+Blackened Iron Collar
+Blackened Iron Crown
+Blackened Iron Eye Totem
+Blackened Iron Gloves
+Blackened Iron Legplates
+Blackened Iron Mail
+Blackened Iron Spaulder
+Blackened Iron Waistband
+Bone Totem
+Bottom of a Fractured Rune
+Cat Skull Cap
+Evil Eye Lens
+Fractured Femur
+Goblin Sticker
+Grotesque Alloy Mask
+Grotesque Mask
+Icon of the Constant
+Middle of a Fractured Rune
+Onyx Ring
+Orb of Slime
+Polished Bone Hoop
+Ring of Slime
+Sleek Black Cape
+Small Brick of Unrefined Ore
+Sporestrand Shield
+Top of a Fractured Rune
+Amstaf's Scroll
+Block of High Quality Ore
+Clawed Knuckle-Ring
+Fish Food Vial
+Half Elf Head
+Highkeep Flask
+Human Decapitated Head
+Large Brick of High Quality Ore
+Left Goblin Ear
+Small Brick of High Quality Ore
+A Dark Reaver
+Mithril Two-Handed Sword
+Adamantite Band
+Adamantite Epaulets
+Amethyst Bracelet
+Azure Sleeves
+Bag of Sewn Evil-Eye
+Basalt Carapace
+Black Tome with Silver Runes
+Braided Cinch Cord
+Breath of Solusek
+Brigandine Tunic
+Broken Bow Part B
+Carved Ivory Mask
+Chrysoberyl Talisman
+Crown of the Froglok Kings
+Dark Mail Gauntlets
+Ebony Bladed Sword
+Embroidered Black Cape
+Embroidered Black Sleeves
+Enameled Black Chestplate
+Enameled Black Mace
+Executioner's Axe
+Executioners Hood
+Eye of Jin
+Eye of Kor
+Flowing Black Silk Sash
+Froglok Eye
+Froglok Meat
+Froglok Poison Gland
+Gilded Cloth
+Gorgon Feather Quill
+Iced Bone Chips
+Ivory Bracelet
+Light Burlap Sack
+Mask of Deception
+Mesh Armbands
+Mesh Bracers
+Mesh Cape
+Mesh Gauntlets
+Mesh Girth
+Mesh Gorget
+Mesh Helm
+Mesh Leggings
+Mesh Mantle
+Mesh Mask
+Mesh Tunic
+Mithril-Runed Tunic
+Mithril Frog Totem
+Moonstone Ring
+Parchment of Flayed Skin
+Platinum Tiara
+Runed Cowl
+Runed Falchion
+Scepter
+Serpentine Bracer
+Serrated Bone Dirk
+Shimmering White Shroud
+Shin Gauntlets
+Shin Greaves
+Shining Metallic Robes
+Short Sword of the Ykesha
+Silver-Plated Leggings
+Silversilk Leggings
+Skull-shaped Barbute
+The End of an Age
+The Idol
+Thick Banded Belt
+Torn Page of Magi`kot pg. 2
+Torn Page of Magi`kot pg. 3
+White Gold Necklace
+Burnt Sash
+Black Chitin Leggings
+Black Henbane
+Blackened Mithril Boots
+Bladestopper
+Blazing Boots of Fennin Ro
+Blazing Bracer of Fennin Ro
+Blazing Breastplate of Fennin Ro
+Blazing Gauntlets of Fennin Ro
+Blazing Helm of Fennin Ro
+Blazing Vambraces
+Blight, Hammer of the Scourge
+Brown Chitin Protector
+Carnal Pauldrons
+Cloak of Flames
+Cloak of Shadows
+Code of Zan Fi
+Crown of King Tranix
+Crystalline Orb
+Death Cap
+Death Scarab Gland
+Djarns Amethyst Ring
+Fleshripper
+Gauntlets of Fiery Might
+Gold Plated Koshigatana
+Golden Chitin Bracer
+Golden Efreeti Boots
+Green Silken Drape
+Heart of Zordak Ragefire
+Hierophant`s Crook
+Large Soiled Bag
+Mithril Breastplate
+Mithril Greaves
+Mithril Vambraces
+Painbringer
+Petrified Erudite Heart Amulet
+Polished Mithril Mask
+Polished Mithril Torque
+Prayers of Life
+Razing Sword of Skarlon
+Red Dragon Scales
+Red Dragon Tooth
+Rokyls Channelling Crystal
+Runed Mithril Bracer
+Selo`s Drums of the March
+Shield of the Slain Unicorn
+Staff of Writhing
+Torn, burnt book
+Treasure Hunter`s Satchel
+A Torch
+Ashenwood Short Spear
+Band of Flesh
+Barbed Leather Whip
+Blackened Sapphire
+Bloodstained Key
+Dark Circlet
+Dark Gold Sr Apprentice Robe*
+Darkbone Marrow
+Dull Bone Key
+Dull Wooden Spear
+Earring of Disease Reflection
+Flowing Black Robe
+Golden Crescent Key
+Guard's Keyring
+Hardened Brick of Clay
+Hilt of the Nobleman
+Hollowed Bone Bracers
+Large Ball of Clay
+Large Ringmail Belt
+Large Ringmail Boots
+Large Ringmail Bracelet
+Large Ringmail Cape
+Large Ringmail Coat
+Large Ringmail Coif
+Large Ringmail Gloves
+Large Ringmail Mantle
+Large Ringmail Neckguard
+Large Ringmail Pants
+Large Ringmail Sleeves
+Leather Wristbands
+Leering Mask
+Ogre War Maul
+Reagent pouch
+Shiny Metal Key
+Stiletto of the Bloodclaw
+Stone Bracelet
+Stone Circlet
+Tentacle Whip
+Terror Spines
+Torn Page of Mastery Water
+Travelers Pack
+Travelers Pouch
+Whore's Bane
+Widowmistress Hair
+Archeologist Pack
+Barbarian Hunting Spear
+Block of Permafrost
+Book of Frost
+Cold Iron Morning Star
+Crystalline Blade
+Crystalline Spear
+Dented Brass Mask
+Etched Ivory Charm
+Giant Dire Wolf Skin
+Giant Polar Bear Skin
+Goblin Frost Totem
+Gossamer Cap
+Heart of Frost
+Ice Crystal Staff
+Icy Greaves
+Mammoth Hide Cloak
+Mammoth Hide Leggings
+Permafrost Snowball
+Prickly Pear
+Runed Circlet
+Scimitar of the Mistwalker
+Silvery Two Handed Axe
+Silvery War Axe
+Snowfall Algae
+Symbol of Loyalty to Vox
+Tobrin's Mystical Eyepatch
+Torn, Frost covered book
+Unholy Coldstone
+Warhammer of Divine Grace
+White Dragon Scales
+White Dragon Tooth
+White Wolf-hide Cloak
+White Wolf-hide Girdle
+Wolf Fur Slippers
+Wooly Spider Silk Net
+Zaharn's Coronet
+Alligator Tooth Earring
+Fresh Piranha
+Giant Rat Whiskers
+Golden Locket
+Head of Azibelle Spavin
+Ivory Handled Falchion
+Limestone Ring
+Polished Steel Dirk
+Severed Paw
+Small Tattered Dress
+Thick Black Cape
+Torn Parchment
+A 'Sparkle' Purse
+Brick of Blue Ore
+Broken Frost Module
+Charred Boots
+Charred Gauntlets
+Charred Guardian Breastplate
+Charred Guardian Shield
+Clockwork Oil Stout
+Drake-hide Leggings
+Drake-hide Sleeves
+Drakescale Belt
+Dufrenite
+Fiery Vambraces
+Fire Crystal Staff
+Fire Goblin Skin
+Firewalker Boots
+Foreman's Tunic
+Frothy Goblin Tonic
+Functional Force Module
+Functional Frost Module
+Glowing Stone Band
+Gnomish Environment Suit
+Goblin Blood
+Goblin Fire Totem
+Goblin Meat
+Heart of Fire
+Impskin Gloves
+Kobold-Hide Boots
+Large Power Source
+Lava Potion
+Lord Gimblox's Signet Ring
+Melatite
+Memento Box
+Mithril Quill
+Molten Cloak
+Obsidian Bead Hoop
+Obsidian Flamberge
+Obsidian Ring
+Obsidian Scimitar
+Obsidian Shard
+Platinum Armband
+Platinum Dragon Totem
+Power of Fire
+Ring of Goblin Lords
+Runed Lava Pendant
+Scepter of Flame
+Small Power Source
+Staff of Fire
+Tattered Gnomish Cloak
+Turquoise Eyepatch
+A faded Velishoul's Tome Page
+Velishoul's Tome Pg. 109
+A Split Paw
+Brain of the Ishva Mal
+Devlas Ilkvel
+Gnoll's Eye
+Journal of Greater Enchantment
+Tanned Split Paw Skin (lore)
+Tesch Val Sinisch
+Thick Amber Potion
+Vacra Av Svim
+White Hellebore
+Blood Soaked Plasmatic Priest Robe
+Darkwood Staff
+Galvanized Platinum Bar
+Lon's Head
+Oil of Fennin Ro
+Robe of the Keeper
+Vulcanized Platinum Bar
+A Shimmering Orb
+Barbarian Head
+Bracelet of Woven Grass
+Brazier of Elemental Summoning
+Chitin Shell Armor
+Chitin Shell Shield
+Collar of Undead Protection
+Degenerated Guk Weed
+Elf-Hide Gloves
+Elf-hide Gloves
+Faerix Spores
+Froglok Tad Tongue
+Froglok Tadpole Eye
+Fungus Spores
+Gatorscale Leggings
+Gatorscale Sleeves
+Ghoulbane
+Globe of Shadow
+Glowing Mask
+Golden Rod
+Guk Bracket Mildew
+Ingot of the Penitent
+Lens of Glowing Amber
+Moss Mask
+Ornate Tin Box
+Pouch of Ghoul Ash
+Reed Ring
+Rune of Scale
+Runed Bone Fork
+Silver-Plated Bracer
+Soiled Boots
+Troll-Hide Belt
+Troll-hide Belt
+Vial of Egg Whites
+Battle Staff
+Spider Venom
+A Rolled Up Note
+Bone Crafted Key
+Infected Rat Livers
+Rolled up Note
+Rotting Femur
+Words of Transcendence
+Algae Covered Flesh
+Blurred Map
+Catman Skin
+Damaged Catman Skin
+Earring of Fire Reflection
+Earring of Frost Reflection
+Flare Stone
+Incomplete Tool Kit
+Magnifying Glass
+Pen Key # 7
+Rotten Shark Meat
+Seahorse Roe
+Seahorse Scales
+Ship Manifesto
+Thin Boned Wand
+Vampire Bat Saliva
+Aglthin's Fishing Pole
+Arrow of Contagion
+Bones
+Emissary Head
+Giant Briar Snake Skin
+Half of a Spell
+Kobold Foot Bones
+Kobold Hide
+Large Briar Snake Skin
+Odd Kobold Paw
+Phaeril Nightshire's Head
+Pixie Dust
+Pristine Kobold Pelt
+Ruined Kobold Pelt
+Skunk Eye
+Skunk Scent Gland
+Skunk Tail
+Troll Head
+Veisha Fathomwalker's Head
+Blood of Kyrenna
+Bow of the Underfoot
+Brell's Girdle
+Cell Key
+Cracked Paineel Shield
+Drop of Mercury
+Dusty Tome
+Earthen Blade
+Elemental Binder
+Engraved Ring
+Essence of a Ghost
+Exceptional Ratman Blood
+Fusible Earthen Ore
+Glohnor wrappings
+Gold lined heretic cloak
+Head of Glohnor
+Heart of Kyrenna
+Holy Dirt of Brell
+Idol of the Underking
+Imbued Granite Spauldors
+Imbued Shield of Paineel
+Living Heart of a Brell Minion
+Loam Encrusted Amice
+Loam Encrusted Bracelet
+Loam Encrusted Cap
+Loam Encrusted Choker
+Loam Encrusted Cloak
+Loam Encrusted Gloves
+Loam Encrusted Lined Shoes
+Loam Encrusted Pantaloons
+Loam Encrusted Robe
+Loam Encrusted Sash
+Loam Encrusted Sleeves
+Loam Encrusted Veil
+Mudman Enforcer
+Paineel Splinted Cloak
+Paineel Steel Bracers
+Paineel Steel Breastplate
+Paineel Steel Collar
+Paineel Steel Greaves
+Paineel Steel Mask
+Paineel Steel Pauldron
+Paineel Steel Plate Boots
+Paineel Steel Vambraces
+Ruined Heretic Longsword
+Ruined Sword Hilt
+Rusted Throneblade
+Serpent's Tooth
+Smoldering Brand
+Soulbound Hammer
+Stonemelder's Band
+Tainted Darksteel Sword
+Tome of Miragul
+Withered Leather Belt
+Withered Leather Boots
+Withered Leather Cloak
+Withered Leather Gloves
+Withered Leather Gorget
+Withered Leather Leggings
+Withered Leather Mask
+Withered Leather Shoulderpads
+Withered Leather Skullcap
+Withered Leather Sleeves
+Withered Leather Tunic
+Withered Leather Wristbands
+Aged Filthy Bastard Sword
+Ancient Snake Fang
+Ancient Snake Rattle
+Ancient Snake Skin
+Ancient Venom Sack
+Bamboo Bokken
+Bamboo Shoot
+Bamboo Splint Skirt
+Bamboo Splint Sleeves
+Blood Crusted Dirk
+Blood Crusted Kobold Mace
+Blood Crusted Leather Bracer
+Blood Crusted Whip
+Blue Wicker Belt
+Blue Wicker Boots
+Blue Wicker Cloak
+Blue Wicker Gloves
+Blue Wicker Gorget
+Blue Wicker Helm
+Blue Wicker Leggings
+Blue Wicker Mask
+Blue Wicker Shoulderpads
+Blue Wicker Sleeves
+Blue Wicker Tunic
+Blue Wicker Wristbands
+Bronze Katana
+Cold Iron Vambraces
+Damaged Gorilla Hide
+Dirt Soiled Robe*
+Etched Iron Boots
+Etched Iron Bracers
+Etched Iron Breastplate
+Etched Iron Collar
+Etched Iron Gauntlets
+Etched Iron Girdle
+Etched Iron Greaves
+Etched Iron Helm
+Etched Iron Mask
+Etched Iron Pauldron
+Etched Iron Vambraces
+Excellent Gorilla Hide
+Fine Steel Kusarigama
+Fine Steel Tanto
+Footpads of the Tiger
+Forlorn Totem of Rolfron Zek
+Gargantuan Panda Pelt
+Giang Yin's Claws
+Giant Leopard Fang
+Giant Leopard Hide
+Giant Sabertooth Fang
+Giant White Sabertooth Hide
+Gigantic Gorilla Fang
+Gigantic Gorilla Hide
+Gloves of the Rock Climber
+Gorilla Fang
+Heretics Head
+Kejekan Palm Fruit
+Kobold Head
+Kobold Meat
+Kobold Molar
+Kobold Shaman's Pouch
+Leopard Skin
+Mantle of the Elder Serpent
+Odd Bronze Necklace
+Odd Cold Iron Necklace
+Panda Claws
+Panda Pelt
+Patch of Gorilla Fur
+Prowling Leopard Leggings
+Robe of the Great Panda
+Soft Wicker Belt
+Soft Wicker Boots
+Soft Wicker Cloak
+Soft Wicker Gloves
+Soft Wicker Gorget
+Soft Wicker Helm
+Soft Wicker Leggings
+Soft Wicker Mask
+Soft Wicker Shoulderpads
+Soft Wicker Sleeves
+Soft Wicker Tunic
+Soft Wicker Wristbands
+Spirit Reaver
+Bamboo Splint Coat
+Bamboo Splint Neckguard
+Bamboo Wakizashi Bo
+Barbequed Erudite
+Bathide Wristband
+Bear Paw's Pelt
+Blood Crusted Two-Handed Sword
+Blood Cured Wraps
+Brawler's Belt
+Bronze Naginata
+Bronze Shackle Key
+Bronze Wakizashi
+Bronze Yari
+Cast Iron Stein
+Cloak of the Forlorn
+Cold Iron Bracers
+Cold Iron Breastplate
+Cold Iron Collar
+Cold Iron Gauntlets
+Cold Iron Girdle
+Cold Iron Helm
+Cold Iron Mask
+Cold Iron Shackle
+Crown of the Forlorn
+Diviner's Bowl
+Dusty Kobold Scroll
+Etched Chitin Shield
+Filth Covered Boots
+Forlorn Arrow
+Forlorn Bow
+Forlorn Naginata
+Globe of the Everburning Flame
+Helm of Ridossan
+Intact Kobold Pelt
+Krode's Shawl
+Midnight Sea Mail Coat
+Odd Bone Necklace
+Packmaster's Lash
+Pit Fighter Anklewraps
+Pit Fighter Handwraps
+Potion of Invisibility
+Potion of Light Healing
+Runed Bokken
+Scepter of the Forlorn
+Shield of the Forlorn
+Steamfont Spring Water
+Tiny Pouch of Bone Dice
+Uliorn's Fishing Pole
+Violet Flame Lantern
+Ye Auld Ball Peen Hammer
+Blackbox B Series
+Gnome Decapitated Head
+Incomplete Blackbox
+Scrap Metal
+Silver Cylinder
+Size 4 Sprocket
+Size 5 Sprocket
+Size 6 Sprocket
+Small Round Shield
+Sprockets
+Aviak Chick Talon
+Aviak Talon
+Barma's Tongue
+Basilisk Tongue
+Battle Axe
+Blade of Nobility
+Bloodforge Hammer
+Crytil's Tongue
+Dwarf Bones
+Dwarven Axe
+Enraged Goblin Beads
+Gnoll Paw
+Goblin Parts
+Gundl's Tongue
+Hurrieta's Tunic
+Keldyn's Tongue
+Margyl's Tongue
+Orc Scoutsman Wrist Pouch
+Pristine Skunk Claws
+Qued's Tongue
+Riptide Spear
+Scarab Carapace
+Scarab Eye
+Scarab Legs
+Small Wooden Leg
+Warbone Chips
+Barnacle-covered Pauldron
+Blood Stained Note
+Cauldron Prawn
+Cauldron Shell
+Cauldron Trout
+Chalice of Conquest
+Coral Trident
+Ingot of the Constant
+Iron Leash Collar
+Pearl Kedge Totem
+Rat Bone Powder
+Reed Belt
+Serpent Blood Potion
+Serpentskin Eyepatch
+Shiny Golden Coin
+Water Ring
+Brownie Parts
+Centurion Relgle's Head
+Faerie Wing
+Fairy Dust
+Heart of the Pure Druid
+Kromdul Carrot
+Orc Hatchet
+Orcish Arsons Torch
+Pixie Wing
+Royal Jelly
+Spear
+Arrow of Acknowledgment
+Arrow of Bravery
+Arrow of Defiance
+Arrow of Fire
+Arrow of Fortitude
+Arrow of Gallantry
+Arrow of Lightning
+Arrow of Recognition
+Blackbox XIVD
+Bottle of Drake Breath
+Braided Ivy Cords
+Brandy
+Chief's Tongue
+Crookstinger
+Crookstinger Poison
+Dull Pearl Necklace
+Equestrielle's Eye
+Faerie Princess Wing
+Fairy Drake Dust
+Fish Wine
+Ghoul Boss' Log Book
+Green Heartwood Branch
+Honey Mead
+Icon of Sacrament
+Illusionists Stone
+Jagged Shard of Bone
+Larik Z`Vole's Head
+LarkTwitter Bow
+Larktwitter Arrow
+Pouch of Mistletoe Powder
+Power of Earth
+Pulsating Brood Clutch
+Putrescent Heart
+Red Wine
+Red Wood Wand
+Shadowed Code Book
+Shiny Silk Gloves
+Small Leather Belt
+Small Leather Boots
+Small Leather Cloak
+Small Leather Gloves
+Small Leather Gorget
+Small Leather Leggings
+Small Leather Mask
+Small Leather Shoulderpads
+Small Leather Skullcap
+Small Leather Sleeves
+Small Leather Tunic
+Small Leather Wristbands
+Sylvan Berries
+Sylvani Leaf
+Teir`Dal Courier's Head
+Teir`Dal Crate
+Twice-Woven Cloak
+Twice-Woven Silk
+Unicorn Horn
+Unicorn Horn Fragments
+Vial of Tunare's Breath
+White Wine
+Encrypted Document
+Berinsans Shirt
+Blackbox Fragment
+Broken Minotaur Lord's Horn
+Butcher Knife
+Clockwork Oil Extract
+Diseased Bone Marrow
+Drop of Grease
+Dusty Old Skull
+Ebon Drake Backbone
+Ebon Drake Bile
+Ebon Drake Scales
+Ebon Drake Wing
+Ebon Drakeling Bile
+Ebon Drakeling Scales
+Feir'Dal Long Sword
+Gnome Tinkered Toy
+Icon of the Devout
+Iron Pellet
+Jagged Diamond Dagger
+Kobold Parts
+Micro Servo
+Minotaur Hero Shackles
+Missing Teir`Dal Crate
+Pristine Ebon Drakeling Scales
+Ravenscale Belt
+Ravenscale Cloak
+Ravenscale Mask
+Ravenscale Neckguard
+Ravenscale Shoulderpads
+Ruined Ebon Drakeling Scales
+Rusted Blackbox
+Shiny Card
+Skull of Meldrath
+Swiftmoon's Head
+Translated Parchment
+Trochilic's Skean
+Winex's Staff
+Young Ebon Drake Bile
+Black Heart
+Blue Orc Head
+Bracers of Battle
+Brass Earring
+Crushbone Battle Beads
+Crushbone Shoulderpads
+Dwarven Mace
+Dwarven Ringmail Tunic
+Dwarven Two-Handed Axe
+Forging Hammer
+Illegible Scroll
+Rondo's Tongue
+Shackle Key 15
+Shackle Key 16
+Shackle Key 17
+Shackle Key 18
+Shackle Key 19
+Shackle Key 20
+Shackle Key 21
+Shackle Key 22
+Shackle Key 23
+Shackle Key 24
+Shiny Brass Shield
+Tergon's Spellbook
+Abalone Gorget
+Blazing Wand
+Blue Crystal Staff
+Darksea Harpoon
+Deepwater Ink
+Driftwood Treasure Chest
+Dusty Old Finger Bones
+Fusible Coral Ore
+Gloomwater Arrow
+Gloomwater Harpoon
+Hammerhead Helm
+Kedge Backbone
+Kedge Cave Crystals
+Kedgemail Gauntlets
+Lamentation Blade
+Lancer Swordfish Fin
+Lock of Hair
+Pearlescent Mask
+Prayer Shawl
+Rod of Drones
+Rod of Health
+Rod of Malisement
+Seahorse Scale Cloak
+Shark Tooth
+Sharkbone Warhammer
+Sharkjaw Cutlass
+Sharkskin Drum
+Shield of Prexus
+Squallsurge Shawl
+Staff of Elemental Mastery: Water
+Swirlspine Belt
+Swordfish Bill
+Trident of the Seven Seas
+Wand of Ice
+Wand of Mana Tapping
+Wand of Shadow
+A Dark Cauldron
+a Dusty Ribcage
+Advisor Robe
+Black Dire Pelt
+Black Silk Gloves
+Blood Spirit
+Blood of the Dhampyre
+Bloodstone Eyepatch
+Butler Syncalls Fang
+Cape of Midnight Mist
+Chestplate of the Dark Flame
+Crested Helm
+Crested Mistmoore Shield
+Crested Spaulders
+Diamondine Earring
+Glowing Iron Pike
+Glowing Sword Hilt
+Gypsy Lute
+Hooded Black Cloak
+Lute of the Gypsy Princess
+Maid Issis Fang
+Mistmoore Battle Drums
+Mistmoore Granite
+Nightshade Wreath
+Noble's Robes
+Platinum Skull Ring
+Power of Wind
+Sacrificial Dagger
+Small Bronze Boots
+Small Bronze Bracers
+Small Bronze Breastplate
+Small Bronze Collar
+Small Bronze Gauntlets
+Small Bronze Girdle
+Small Bronze Greaves
+Small Bronze Helm
+Small Bronze Mask
+Small Bronze Pauldron
+Small Bronze Vambraces
+Stone Marker
+Thick Caustic Fluid
+Vial of Noble's Blood
+Vial of Vampire Blood
+Werewolf Talon
+A Werebat Wing
+A fungus eye
+Amanita Phalloide
+Barbed Bone Chips
+Battleworn Canteen
+Bloodstained Mantle
+Bloodstained Tunic
+Bone Barbs
+Charred Dagger
+Charred Pearl
+Charred Ruby
+Cracked Glass Key
+Dark Bone Chips
+Dark Boned Bracelet
+Darkbone Skull
+Diablerie II
+Dull Bone Chips
+Dusty Bloodstained Gloves
+Dusty Old Backbone
+Dwarven Work Boots
+Ebon Dagger
+Ebon Wand
+Festering Cloak
+Ghoul Carrion
+Gladius
+Globe of Mist
+Gossamer Amice
+Gossamer Cape
+Gossamer Collar
+Gossamer Gloves
+Gossamer Leggings
+Gossamer Sash
+Gossamer Sleeves
+Gossamer Veil
+Gossamer Wristbands
+Grave Mold
+Ipsor's Enlightenment IV
+Jagged Band
+Mixxy's Delicacies Vol 1
+Opalline Earring
+Pouch of Silver Dust
+Powder of Reanimation
+Preserved Hops
+Savant's Cap
+Small Kite Shield
+Small Stone Key
+Sphere of Unrest
+Tarnished Bronze Key
+Thick Leather Apron
+Torklar's Battle Hammer
+Tump Stump
+A Weighted Axe
+Ash Hornet Venom
+Axe of the Iron Back
+Belt of Fire
+Bronzewood Staff
+Burning Embers
+Cinder Hornet Pollen
+Circlet of Fire
+Dirt of Underfoot
+Dragon Scales
+Fire Hornet Wing
+Flight Arrow
+Forest Loop
+Gem Encrusted Ring
+Giant Foreman's Tunic
+Giant Grub Digger
+Giant Lord's Tunic
+Giant Tree Flayer
+Gloves of Fire
+Goblin Skull Crusher
+Hammer of Flattening
+Hammered Golden Hoop
+Large Box
+Lost Staff of the Scorned
+Mantle of Fire
+Petrified Charred Branch
+Radiant Meteorite
+Red Wurm Gut
+Ruined Scaled Bracelet
+Ruined Scaled Coat
+Ruined Scaled Mantle
+Ruined Scaled Pants
+Ruined Scaled Skirt
+Ruined Scaled Sleeves
+Runic Carver
+Sarnak Ceremonial Sword
+Sarnak Eitchatka
+Sarnak Emblazened Tabard
+Sarnak Knight's Sword
+Sarnak Pitchatka
+Sceptre of Ixiblat Fer
+Straw Spun Belt
+Tattered Mantle
+Tree Weave
+Wurm Scale
+Wurm Scale Coat
+Canine
+Yellow Whip
+Ancient Thin Flute
+Brute Hide
+Cockatrice Beak
+Drachnid Leg Tip
+Drachnid Silk
+Drachnid Thyxl
+Drachnid Web Sack
+Dread Diamond
+Frosty Datura
+Giant Sized Monocle
+High Quality Brute Hide
+Honey Berry
+Honey Berry Pie
+Red Cockatrice Feather
+Shield of the White Dragon
+Vial of Drachnid Blood
+Wraith Bone Hammer
+Before Green
+Blood Thorn Extract
+Captain of the Sea
+Emeraldberry Cyanide
+Green Dragon Scales
+Green Tree Bark
+Maneater Bud
+Mantrap Root
+Shield of the Green Dragon
+Shiny Emerald
+The Crusade of 1312 A.G.
+Tiger Skin
+Trooper Shield
+A Mandible
+Scorpion Telson
+Wolf Scale
+Blockcutter Gloves
+Brittle Iksar Skull
+Burynaibane Charm
+Burynaibane Spider Fang
+Carrion Beetle Leggings
+Carrion Queen Liver
+Charred Bone Shards
+Excavator Claws
+Finely Crafted Sheer Blade
+Flarefire Seeds
+Head of Blackhand
+Heartsting Venom Sack
+Iksar Bandit Mask
+Large Scorpion Pincer
+Loose Scale
+Marauder Snout Ring
+Marauder Snout Ring 'MM'
+Polished Stone Anklet
+Rusty Fer`Esh
+Rusty Shan`Tok
+Rusty Sheer Blade
+Sands of the Mystics
+Scaled Curskin
+Scaled Prowler Belt
+Scaled Prowler Cloak
+Scaled Wolf Hide
+Scorpion Chitin
+Scorpion Meat
+Scorpion Pincer
+Scourgetail Bracer
+Scourgetail Whip
+Sythrax Building Plans
+Targishin's Bone Mask
+Tarnished Shan`Tok
+Tarnished Sheer Blade
+Zombie Flesh
+Scarlet Stone
+An Outlander's Head
+Bloodsoaked Note
+Charasis Tome
+Charasis Tome Copy
+Crunchy Crawlers
+Daelione's Implant
+Falchion of the Koada'Vie
+Gunthak Pirate Rapier
+Firiona Drixie Dust
+Foil
+Goblin Bracer
+Goblin Skinner
+Gunthak Harpoon
+Halberd
+Jewel of Ganak
+Nok Shaman Powder
+Rune of Presence
+Scribbled Note
+Scribblings
+Small Black Boots
+Small Black Gloves
+Small Black Sleeves
+Small Black Trousers
+Small Black Tunic
+Small Black Wristbands
+Starmetal Ore
+Streaven's Head
+Ton Warrior Totem
+Tsu Shaman Powder
+Wings of the Drixie Queen
+A Bone Key
+A Copper Key
+Barbed Scale Whip
+Belt of the Cenobite
+Blood Splattered Veil
+Burynai Leg Ripper
+Chieftain's Headress
+Cracked Branch
+Crystal of Seeing
+Dustscryer's Crystal Ball
+Dusty Breastplate
+Ebon Razor
+Gauntlets of Brute Strength
+Gem Encrusted Circlet
+Gem Finder
+Glowing Club
+Goblin Head-Spear
+Goblin Plaguebeads
+Goblin Soul Caller
+Goblin Trail Blazer's Knife
+Goblin Warlord Warbeads
+Gold Nugget
+Gray Colored Ice
+Grinning Goblin Brew
+Gromlok's Basher
+Helm of Brute Strength
+Idol of Woven Grass
+Intact Brutling Choppers
+Jade Magma
+Medicine Totem
+Mosscovered Branch
+Mosscovered Twig
+Muck Covered Boots
+Necklace of Defiance
+Pouch of Dust
+Ring of Dominance
+Ring of the Rockchanters
+Rotwood Club
+Sarnak-hide Leggings
+Sarnak Earring of Station
+Scale Hide Whip
+Scorched Pauldrons
+Shattered Choppers
+Skull-topped Runestaff
+Skullchip Bracelet
+Skullhelm of Krenlek
+Sleeves of the Ancients
+Slime filled potion
+Slithinis's Shield
+Snaorf's Medallion
+Stone Thunder
+Tome of the Eternal
+Windetched Staff
+Windruned Dagger
+A Cracked Femur
+Farsight Crystal
+Koada'Dal Blood Doll
+A Scroll
+Balanced Shan`Tok
+Balanced Sheer Blade
+Blade of Passage
+Bloodfin Trout
+Bloodgill Scales
+Bracer of the Hidden
+Demon Fangs
+Engraved Sarnak Koatchet
+Excellent Sabertooth Tiger Hide
+Exiled Iksar Head
+Explorer Survival Knife
+Finely Crafted Targ Shield
+Foot of Candlestick
+Gem of Yet to Come
+Goblin Gazughi Ring
+Goblin Hunter Javelin
+Goblin Spirit Catcher
+Hammer of 1406
+Hand Woven Leggings
+Hand Woven Shoulder Guards
+Harpoon of the Depths
+Heart of Ice
+Iksar Left Hand
+Iksar Skull Helm
+Iron Bound Tome
+Jade Chokidai Prod (Pre-Nerf)
+Jade Chokidai Prod
+Love Letter (Sealed)
+Torn Tapestry
+Mithril Staff
+Note of Credit
+Pondfish Spine
+Pure Lakewater
+Ripped Tapestry
+Sabertooth Cub Canine
+Sabertooth Fang
+Sabertooth Kitten Canine
+Sabertooth Tiger Hide
+Sabertooth Tiger Mane
+Sarnak Broodling Fang
+Sarnak Dragoon Helm
+Sarnak Flesh Harvester
+Sarnak Great Cleaver
+Sarnak Hatchling Brain
+Sarnak Raider Brain
+Sarnak Recruitment Letter
+Sarnak Whelp Head
+Scaled Wolf Hide Belt
+Scaled Wolf Hide Cloak
+Scaled Wolf Hide Gloves
+Skeletal Hand
+Skeleton Fist
+Skull with I
+Rhino Hoof
+Stem of Candlestick
+Tattooed Sarnak Head
+Warlord Drawing Pen
+Watcher Signal Torch
+Worn Charbone
+Broken Vine
+Rare Leaf
+A Root
+Sarnak War Braid
+Boots of Zorash
+Cactus Quills
+Chunk of Tynnonium
+Cockatrice Egg
+Cracked Shell
+Cursed Clover of Viesar
+Goblin Choker
+Goblin Two-Handed Sword
+Letter to Duriek
+Petrified Redwood
+Rhino Horn
+A Root (Item)
+Sarnak Berserker Head
+Sarnak Liberator
+Sarnak Staff of Glyphs
+Scorpikis Venom
+Stoneglint Lime Plume
+Stoneleer Emerald Plume
+Succulent Sap
+Tears of Erollisi
+Tektite
+The One Key
+Wet Clay
+Chromadrac Wing
+Chromodrac Gut
+Fusible Igneous Ore
+Halcyon Broadsword
+Immortals
+Shield of the Red Dragon
+Skyash Bile
+A Giant Blood Sac
+Page of a Tome
+Twisted Stalk
+Busted Froglok Slave Shackles
+Creeper Cabbage
+Fern Flower
+Fordel Short Sword
+Froglok Bounder Javelin
+Froglok Escort Fife
+Froglok Head
+Froglok Treated Planks
+Giant Mosquito Wings
+Krup Warrior Guard
+Leech Husk
+Morgl Skull
+Nohope Moss
+Shrub Lettuce
+Skipping Stone
+Small Mosquito Wing
+Strange Writing on a Bookmark
+Ticket Stub
+Tome Binder
+Venomous Parchment
+Waz Skull
+Black Bart's Spiced Rum
+Chunk of Ice
+Dark Rust Boots
+Dark Rust Bracer
+Faded Salil's Writ Page
+Flowing Red Silk Sash
+Fur Lined Mask
+Golra Skin
+Grey Fur Cape
+Gunthak Dagger
+Gunthak Scimitar
+Pod of Seawater
+Rile's Sand Coin
+Sea Dragon Meat
+Severely Damaged Dragon Head Hilt
+Shield of the Water Dragon
+Spiroc Bone Dust
+Watchman's Spectacles
+Water Dragon Scales
+A Singed Scroll
+A captured message
+Ancient Blade
+Ancient Sword Blade
+Anklesmasher
+Argent Protector
+Baton of Royal Stature
+Boneshear
+Bronze Statue of Bathezid
+Burnished Wooden Stave
+Burnt Wood Staff
+Chokidai Hide Pauldrons
+Chokidai Hide Spaulders
+Cloak of Imperception
+Courier`s Potion
+Crypt Master's Conjuring Stone
+Dark Scale Sleeves
+Darksight Dagger
+Desiccated Halfling Mask
+Di'Zok Signet of Service
+Di'zok Imperial Katana
+Di'zok Wristsnapper
+Di`zok Begirding
+Di`zok Escape Staff
+Di`zok Oracle Shillelagh
+Di`zok Sceptre of Authority
+Earring of Blazing Energy
+Earring of Cleansing
+Earring of Everfount
+Earring of Purity
+Earring of Twisted Leaves
+Earring of Woven Bark
+Edge of Cabilis
+Engraved Di'Zok Deathbringer
+Etched Steel Baton
+Fancy Velvet Mantle
+Fester
+Girdle of Flayed Iksar
+Girdle of Rapidity
+Goblin Juntah Harvester
+Golem Tear Ring
+Greenish Metal Shard
+Guard Captain`s Mallet
+Hammered Golden Loop
+Hardened Bone Spaulders
+Head of a Prince
+Heliotrope
+Herbalist's Spade
+History of the Di`zok
+Iksar Hide Cap
+Iksar Hide Cape
+Iksar Hide Manual
+Iksar Skin Gloves
+Imperial Wardog Collar
+Incarnadine Boots
+Incarnadine Breastplate
+Incarnadine Gauntlets
+Incarnadine Greaves
+Incarnadine Helm
+Incarnadine Legplates
+Incarnadine Vambraces
+Inlaid Jade Hoop
+Insignia Protector
+Intricate Silver Rapier
+Ivory Imbued Collar
+Jade Inlaid Crescent Axe
+Jade Inlaid Spaulders
+Jade Meditation Hoop
+Jagged Blade of Mourning
+Jagged Chokidai Spine
+Jatamasi
+Jeldorin
+Korucust's note to Venril
+Manisi Herb
+Mask of Secrets
+A Metal Pipe
+Nathsar Bracer
+Nathsar Breastplate
+Nathsar Gauntlets
+Nathsar Helm
+Nathsar Leggings
+Nathsar Vambraces
+Note from Prince Selrach
+Oakleaf Scimitar
+Oakmoss
+Overseer`s Signet
+Palladium Axe
+Poison Washed Spaulders
+Polished Shai`din Naginata
+Preserved Chokidai Vocal Cords
+Primordial Substance
+Rabid Chokidai Fang
+Regal Band of Bathezid
+Ring of Di`Zok
+Ring of Stealthy Travel
+Sandwich of Foul Smelling Herbs
+Sarnak Arcane Fetish
+Sarnak Backstabber
+Sarnak Battle Shield
+Sarnak Battlehammer
+Sarnak Bracer of Honor
+Sarnak Devastator
+Sarnak Hide Boots
+Sarnak Lightning Caller
+Sarnak Parrying Blade
+Sarnak Prayer Beads
+Sarnak Skullsplitter
+Sarnak Summoner`s Dagger
+Sarnak War Bow
+Sarnak Warhammer
+Shai`din Revenant Bauble
+Shard of Darkness
+Shard of Night
+Silver Swiftblade
+Slick Leather Courier`s Cape
+Small Manisi Plant
+Spirit Wracked Cord
+Stained Cloth Mask
+Stave of Shielding
+Symphonic Saber
+Tanned Iksar Hide Leggings
+Tattered Flesh Veil
+The History of the Greenmist
+Tribal War Boots
+Tribal War Mask
+Vial of Roiling Gas
+Vibrating Gauntlets of Infuse
+Vibrating Hammer of Infuse
+Vile Sarnak Brew
+Water Sprinkler of the Forgiven
+Withered Staff
+Worn Crescent Axe
+Worn Shai`din Naginata
+Writ of Di`zok
+A Stone Key
+Atramentous Shield
+Axe of Lost Souls
+Crier's Scroll
+Crusades of the High Scale
+Firerune Brand
+Fogwater Trout
+Gleaming Serrated Blade
+Green Jade Broadsword
+Head Housekeeper's Log
+Historic Article
+Icon of the High Scale
+Iksar Scale
+Jade Reaver
+Key of Torsis
+Kunzar Ku'juch
+Mace of the Shadowed Soul
+Master Wu's Trance Stick
+Merchant's Letter
+Neh`Ashiir's Diary
+Obsidian Ring of Quintessence
+Ornate Rune Blade
+Ornate Rune Shield
+Personal Diary Page
+Priest's Diary Page
+Ruined Scaled Boots
+Ruined Scaled Cape
+Ruined Scaled Coif
+Ruined Scaled Gloves
+Ruined Scaled Neckguard
+Ruined Scaled Visor
+Runewood Great Staff
+Sainy's Claw
+Shimmering Partisan
+Springwood Club
+Strange Ochre Clay
+Student's Log
+Throneblade of the Ykesha
+Torch of the Elements
+Viik's Dark Defender
+Wintry Club
+Woodsman's Staff
+Written Announcement
+Wu's Quivering Staff
+Adamantite Bo Stick
+Bamboo Bo Stick
+Battle Plans
+Bo Stick
+Bone Chips (Golin's)
+Brass Goblin Flamberge
+Charred Tulwar
+Coercion Implant
+Crescent Arm Wraps
+Crescent Fighting Gloves
+Crescent Gi
+Crescent Headband
+Crescent Pants
+Crescent Slippers
+Dagger Hilt
+Defiled Drape of the Brood
+Elf Skull
+Elliptical Veil
+Fighting Baton
+Forge Hammer of Dalnir
+Froglok Crusher
+Gooey Adhesive
+Grave Sandals
+Greenwood Bo Stick
+Human Skull
+Iksar Blood
+Iksar Skull with punctured cranium
+Iksar Stave
+Jagged Metal Shard
+Journal Entry
+Lost Scroll
+Nickel Key
+Robe of Dalnir
+Robe of the Foci
+Rod Segment 'I'
+Sap of Piety
+Sarnak Enforcer
+Sarnak Headguard
+Serpentwood Staff
+Serrated Wire
+Sharp Metal Shard
+Shattered Crusader Khukri
+Tattered Arm Wrappings
+Tattered Leg Wrappings
+Tattered Memo
+Tattered Tomb Shroud
+Tower Guard's Blade
+Traitor's Heart
+Two Handed Practice Sword
+Wand of Pain
+Worm-eaten Gloves
+Acid Etched War Sword
+Adamantite Club
+Blood Point
+Brittle Bone
+Coin Depicting Innoruuk
+Dusty Iksar Skull
+Dusty Rusted Shackles
+Dusty Rusted Vambraces
+Ebonwood Cudgel
+Enshrouded Veil
+Fayguard Parrying Dagger
+Fingerbone Hoop
+Gem Inlaid Band
+Glob of Gooey Goo
+Glowing Iksar Skull
+Golden Bracer
+Gravebinder
+Helot Skull Helm
+Jagged Long Sword
+Kylong Arm Guards
+Kylong Boots
+Kylong Chestplate
+Kylong Gauntlets
+Kylong Greaves
+Kylong War Helm
+Kylong Wrist Guards
+Mask of Obtenebration
+Mask of Wurms
+Mirror of Self-loathing
+Mucilaginous Girdle
+Opalescent Hide
+Rapier of Oriin
+Rod of Faith
+Rod of Oblations
+Rotbone Bracelet
+Rotbone Sleeves
+Runed Brass Disk
+Runed Morning Star
+Sacrificial Robe Clasp
+Sarnak Hide Girdle
+Sash of the Dragonborn
+Scorpikis Claw Impaler
+Sigil of the Calendar
+Siren Scale Robe
+Skull-engraved Coin
+Spirit Wracked Urn
+Steel Hilted Flint Dagger
+Stein of Tears
+Thorny Blackjack
+Blade of Fiery Lamentations
+Blade of Xalgoz
+Cryptrobber's Knife
+Dagger of Frost
+Deadwood Stave
+Deathwatch Sword
+Dusty Ransacker's Pack
+Frenzied Gnawer Tail
+Icy Blade
+Kunzar Cloak
+Kunzar Mantle
+Kylong Hunting Knife
+Kylong War Dagger
+Luminary Two Handed Sword
+Mask of the Eight Eyes
+Power of Water
+Ravener Tail Whip
+Rod of Battle
+Sage's Battle Staff
+Shield of Spectral Essence
+Spear of Mortification
+Spectral Shroud
+Spine Piercer
+Spirit Tome
+Staff of the Dreaded Gaze
+Strathbone Anti-Venom
+Strathbone Shell Shield
+Strathbone Silk
+Tombcarver
+Truesilver Mail Boots
+Truesilver Mail Bracelets
+Truesilver Mail Coif
+Truesilver Mail Gloves
+Truesilver Mail Pants
+Truesilver Mail Shirt
+Truesilver Mail Sleeves
+Xalgozian Fang
+Ancient Shissar Gauntlet
+Band of Eternal Flame
+Baton of Faith
+Blackjack
+Blood Ember Boots
+Blood Ember Gauntlets
+Blood Ember Greaves
+Blood Fork
+Bone Amulet of Blade Turning
+Book of Obulus
+Brokenskull Club
+Cobalt Boots
+Cobalt Gauntlets
+Cobalt Greaves
+Deathbringer's Rod
+Deepwater Boots
+Deepwater Gauntlets
+Deepwater Greaves
+Dented Battleshield
+Diamond Encrusted Staff
+Donal's Boots of Mourning
+Donal's Gauntlets of Mourning
+Donal's Leggings of Mourning
+Drolvarg Mantle
+Dwarven Sap
+Elder Spiritist's Gauntlets
+Elder Spiritist's Greaves
+Elder Spiritist's Vambraces
+Fang Amulet of Calling
+Fist of Zek
+Flayed Skin Boots
+Flayed Skin Bracers
+Flayed Skin Cap
+Flayed Skin Leggings
+Flayed Skin Sleeves
+Flayed Skin Tunic
+Gnarled Staff
+Greyish Bone Chips
+Harmonic Dagger
+Helm of Rile
+Howling Harpoon
+Iksar Berserker Club
+Jade Mace
+Jarsath Scale Boots
+Jarsath Scale Chestplate
+Jarsath Scale Gauntlets
+Jarsath Scale Helm
+Jarsath Scale Leggings
+Jarsath Scale Vambraces
+Jarsath Scale Wrist Guards
+Jarsath Trident
+Jaundiced Bone Boots
+Jaundiced Bone Gauntlets
+Jaundiced Bone Greaves
+Locustlure
+Lupine Dagger
+Lycanthropic Staff
+Mrylokar's Boots
+Mrylokar's Gauntlets
+Mrylokar's Gift
+Mrylokar's Greaves
+Nature's Wrath
+Nightshade Scented Staff
+Noctivagant Blade
+Oggok Cleaver
+Petrified Werewolf Skull
+Polished Obsidian Great Axe
+Polyphenomenal Axe
+Pulsing Green Stone
+Rile's Shattered Blade
+Ringed Mace of the Ykesha
+Runed Blade
+Sarnak-Hide Mask
+Sathir's Wand
+Scroll of the Dark
+Shissar Guardian Staff
+Shissar Nullifier Staff
+Singing Steel Boots
+Singing Steel Gauntlets
+Singing Steel Greaves
+Sionachie's Partisan
+Soul Binder
+Springwood Stave
+Supple Scale Armband
+Swarmcaller
+Sword Breaker
+Tolan's Darkwood Boots
+Tolan's Darkwood Gauntlets
+Tolan's Darkwood Greaves
+Tranquil Staff
+Waters of Impenetrable Aura
+Glowing Skull
+Bargynn's Digger
+Bargynn's Torch
+Burynai Digmaster's Claw
+Burynai Hide Boots
+Burynai Hide Bracelets
+Burynai Hide Cap
+Burynai Hide Choker
+Burynai Hide Cloak
+Burynai Hide Gloves
+Burynai Hide Mask
+Burynai Hide Pants
+Burynai Hide Shoulder Pads
+Burynai Hide Sleeves
+Burynai Hide Tunic
+Curscale Snout Mount
+Hollow Skull (Skull of the Tower Cook)
+Iksar Skull with an 'X'
+Reinforced Rhino Arm Guards
+Reinforced Rhino Boots
+Reinforced Rhino Chest Guard
+Reinforced Rhino Gloves
+Reinforced Rhino Leggings
+Reinforced Rhino Skullcap
+Reinforced Rhino Wrist Guard
+Shield of Kurn
+Skeletal Feet
+Solist's Icy Wand
+Tattered Scroll
+Thick Iksar Skull
+Tiny Collar
+Withered 2.5 Inch Finger
+Withered 3.1 Inch Finger
+Withered 3 Inch Finger
+Withered 4 Inch Finger
+Dai Nozok skull canopic
+Eye of RokGus
+Trunt's Head
+Warpainted Spear
+Whistling Dagger
+Arbitor's Combine Greatsword
+Beetle Stinger
+Blade of the Black Dragon Eye
+Blade of the Green Dragon Eye
+Blood Ember Bracer
+Blood Ember Breastplate
+Blood Ember Helm
+Blood Ember Vambraces
+Blue Slumber Fungus
+Bone Mask of the Jarsath
+Box of Nil Space
+Breath of Harmony
+Brell's Keg Popper
+Cane of Harmony
+Cane of the Tranquil
+Cap of the Insubstantial
+Clarifying Spores
+Clay Guardian Shield
+Cloak of Piety
+Cobalt Bracer
+Cobalt Breastplate
+Cobalt Helm
+Cobalt Vambraces
+Cone of the Mystics
+Crystalline Short Sword
+Dark Scale Greaves
+Deepwater Bracer
+Deepwater Breastplate
+Deepwater Helm
+Deepwater Vambraces
+Donal's Bracer of Mourning
+Donal's Chestplate of Mourning
+Donal's Helm of Mourning
+Donal's Vambraces of Mourning
+Dragon Horn Ykesha
+Ebon Mace
+Elder Spiritist's Bracer
+Elder Spiritist's Breastplate
+Elder Spiritist's Helm
+Fayguard Bladecatcher
+Felhammer
+Froglok Bonecaster's Robe
+Froglok Scale Chestplate
+Fungi Covered Great Staff
+Fungus Covered Great Staff
+Fungus Covered Scale Tunic
+Gangrenous Beetle Mask
+Granite Face Grinder
+Green Jade Axe
+Green Jade Halberd
+Hardened Clay Bracelet
+Hierophant's Cloak
+Iksar Hide Boots
+Imbued Fighters Staff
+Jarsath Battle Sword
+Jaundiced Bone Bracer
+Jaundiced Bone Breastplate
+Jaundiced Bone Helm
+Jaundiced Bone Vambraces
+Journeyman's Walking Stick
+Knuckle Dusters
+Lamentation
+Larrikan's Mask
+Luminescent Staff
+Manna Robe
+Mistletoe Powder
+Mrylokar's Bracer
+Mrylokar's Breastplate
+Mrylokar's Helm
+Mrylokar's Vambraces
+Nathsar Greatsword
+Obulus Death Shroud
+Obulus Mantle
+Peacebringer
+Penicillin Spores
+Poison Wind Censer
+Poisoned Mantle
+Reet Froglok Crown
+Robe of Living Fungus
+Rod of Annihilation
+Rod of Lamentation
+Rod of Mourning
+Runed Fighters Staff
+Sebilite Croaking Dirk
+Sebilite Scale Belt
+Sebilite Scale Boots
+Sebilite Scale Bracelet
+Sebilite Scale Cap
+Sebilite Scale Cape
+Sebilite Scale Coat
+Sebilite Scale Gloves
+Sebilite Scale Leggings
+Sebilite Scale Mantle
+Sebilite Scale Mask
+Sebilite Scale Neckguard
+Sebilite Scale Vambraces
+Shieldstorm
+Siblisian Berserker Cloak
+Silken Whip of Ensnaring
+Silver Etched Warhammer
+Singing Steel Bracer
+Singing Steel Breastplate
+Singing Steel Helm
+Singing Steel Vambraces
+Slime Coated Harpoon
+Sludged Girdle
+Spores of Forgetfulness
+Staff of Battle
+Staff of the Waterwalker
+Stormwood Battle Staff
+Sword of Skyfire
+Sword of the Morning
+Tolan's Darkwood Bracer
+Tolan's Darkwood Breastplate
+Tolan's Darkwood Helm
+Tolan's Darkwood Vambraces
+Tolapumj's Robe
+Ton Po's Bo Stick of Understanding
+Trakanon's Tooth
+Truncheon of Doom
+Undead Dragon Sinew
+Undead Dragongut Strings
+Undead Froglok Spine
+Wax Flower
+Wind Saber
+Worn Cloth Mantle
+Ykeshan War Club
+Zealot's Incarnadine Sword
+A Bronze Key
+A Steel Key
+An Iron Key
+Blade of the Earthcaller
+Book of the Rings
+Bracer of Vajeen
+Burynai Legion Gi
+Canyoneer Pike
+Choker of Majdd
+Circlet of Shadow
+Circlet of Shadows
+Droga Jail Key
+Drogan Obsidian Dagger
+Drogan Warlord's Insignia
+Earring of Essence
+Essence of Dol
+Eye of Melnor
+Gauntlets of Potence
+Goblin Backstabber
+Goblin Bone Dagger
+Goblin Forged Chain Coif
+Goblin Forged Chainmail Bracelet
+Goblin Forged Chainmail Cape
+Goblin Forged Chainmail Coat
+Goblin Forged Chainmail Gloves
+Goblin Forged Chainmail Mantle
+Goblin Forged Chainmail Neckguard
+Goblin Forged Chainmail Skirt
+Goblin Forged Iron Armplates
+Goblin Forged Iron Boots
+Goblin Forged Iron Legplates
+Goblin Forged Iron Mask
+Goblin Parrying Dagger
+Goblin Parrying Spear
+Goblin Scribblings
+Green Goblin Skin
+Head of Skargus
+Hollow Bone Shank
+Idol of the Thorned
+Locket of Escape
+Mantle of Mirth
+Master Shackle Key
+Mountain Death Belt
+Mt. Death Mineral Salts
+RukGus' Sticker
+Sainy's Singing Dagger
+Shroud of Nature
+Smokey Quartz Dagger
+Spiked Goblin Ring
+Stone of Morid
+Whip of Strangulation
+Blackstone Maul
+Blade of Falling Stars
+Blood Orchid Katana
+Blued Flower Katana
+Bo Staff of Trorsmang
+Claw of Phara Dar
+Crown of Rile
+Dragon Claw Main Gauche
+Dragon Spine Staff
+Executioner's Blade
+Fatesealer
+Feverblade - Bane of the Shissar
+Frozen Zweihander
+Grey Suede Boots
+Hammer of the Dragonborn
+Howling Cutlass
+Katana of Endurance
+Katana of Flowing Water
+Left Eye of Xygoz
+Lyran's Mystical Lute
+Maelstrom
+Malevolent Runeblade
+Nightfall
+Pulsating Gem
+Razor Fang of Xygoz
+Razor Sharp Short Sword
+Robe of Adversity
+Robe of Asphyxiation
+Robe of Burning Rage
+Robe of Decay
+Robe of Smothering
+Robe of the Azure Sky
+Robe of the Spring
+Runestone Maul
+Sarnak Channeler Staff
+Sarnak Summoners Staff
+Shield of Elders
+Shissar Apothic Staff
+Shissar Deathspeaker Staff
+Shissar Elementalist's Staff
+Shissar Elementalist`s Cane
+Shissar Focus Staff
+Shissar Protection Staff
+Shissar Seance Staff
+Shroud of Veeshan
+Skullcrusher of Kragg
+Smoldering Cudgel
+Solist's Robe of Invocation
+Spear of Constriction
+Sprinkler of Suffering
+Staff of Null
+Star of the Guardian
+Sword of Rile
+Sword of the Shissar
+The Scimitar of Lifestealing
+Veldrak's Shortblade
+Veridix's Shortsword
+Ykeshan Broad Axe
+Yunnb's Earring
+100' of Waterproofed Rope
+Arctic Wyvern Hide
+Barracuda Liver
+Bioluminescent Orb
+Glob of Slush Water
+Bulthar Trunk
+Cloak of Crystalline Waters
+Cobalt Cod
+Cobalt Drake Hide
+Cold Water Barracuda Meat
+Conch Shell Horn
+Crushed Jaundice Gem
+Crushed Nephrite
+Crustacean Shell Boots
+Crustacean Shell Bracers
+Crustacean Shell Breastplate
+Crustacean Shell Gauntlets
+Crustacean Shell Greaves
+Crustacean Shell Helm
+Crustacean Shell Shield
+Crustacean Shell Vambraces
+Cutting Shells
+Drake Meat
+Drixie Remains
+Excellent Siren Scales
+Fatty Walrus Meat
+Ice Wyvern Stinger
+Kelorek`Dar Spine Razor
+Lock of Siren Hair
+Othmir Chieftain Spear
+Othmir Fur
+Otterman Meat
+Sea Dragon Scales
+Siren Hair
+Siren Parts
+Typhoon, Sword of the Tidalwave
+Whale Bone
+Wyvern Meat
+Adarra's bow of the Unseen
+Adarra's Bow of the Unseen
+Beer Stained Coldain Tunic
+Berradin's head
+Book of Tactics
+Bottle of Karsin Acid
+Braided Beard of the Coldain
+Brell's Divine Strategy
+Chief Ry`Gorr's Head
+Chill Dagger
+Cloak of the Ry`Gorr Oracles
+Coldain Head
+Coldain Smithing Hammer
+Coldain Velium Short Sword
+Dark Ember
+Dirk of the Traitor
+Dragon Scripture Tablet
+Fresh Chunk of Wooly Rhino
+Frost Bunny Meat
+Frost Giant Femur
+Frosted Gem
+Frozen Elixir
+Frozen Mantle
+Frozen Orb
+Gauntlets of the Black
+Giant Warrior Helmet
+Giant Woven Vest
+Hand of Deaen Greyforge
+Hardened Kodiak Leather Bracer
+Head of Ekelng Thunderstone
+Head of Scarbrow
+High Quality Dire Wolf Fur
+High Quality Tundra Kodiak Pelt
+High Quality Walrus Hide
+Iceball
+Kodiak Claws
+Kodiak Pelt
+Kromrif Head
+Legs of Deaen Greyforge
+Letter to Doldigun
+Letter to Peffin
+Low Quality Cougarskin
+Manticore Mane
+Manticore Tail
+Medium Quality Dire Wolf Fur
+Medium Quality Tundra Kodiak Pelt
+Medium Quality Walrus Hide
+Note from Kromrif
+Note to Tain
+Orc Fang Earring
+Orc Fang Necklace
+Peffin's head
+Rabid Kodiak Skin
+Ring of Frost
+Rodrick's Head
+Ruined Tundra Kodiak Pelt
+Ry'Gorr Invasion Plans
+Ry`Gorr Battle Mail
+Ry`Gorr Chain Bracer
+Ry`Gorr Chain Coif
+Ry`Gorr Chain Collar
+Ry`Gorr Chain Gloves
+Ry`Gorr Chain Leggings
+Ry`Gorr Iron Armguards
+Ry`Gorr Scalp
+Shackle key
+Skinning Rock
+Snow Bunny Meat
+Snow Bunny Pelt
+Snow Griffin Egg
+Spell: Turning of the Unnatural
+Spine Chill Spear
+Talisen, Bow of the Trailblazer
+Torque of Hoar Frost
+Tundra Kodiak Meat
+Tundra Kodiak Paw
+Tundra Kodiak Tooth
+Tundra Mammoth Tail
+Ulthork Hide
+Ulthork Hide Arms
+Ulthork Hide Boots
+Ulthork Hide Bracer
+Ulthork Hide Collar
+Ulthork Hide Legs
+Ulthork Hide Skullcap
+Ulthork Hide Tunic
+Ulthork Meat
+Ulthork Tusks
+Ulthork Whiskers
+Walrus Tooth
+War Tactics of the Frostreavers
+Wooly Rhino Horn
+Wooly Rhino Meat
+Black Steel Wrap
+Bllizent's Fang
+Blood Wolf Harness
+Bracer of Scale
+Coldain Crossbow
+Crested Blood Wolf Harness
+Crystalline Eye
+Cured Tizmak Gloves
+Cured Tizmak Surcoat
+Drakkel Forged Bastard Sword
+Drakkel Forged Sledgehammer
+Drakkel Icegrinder
+Drakkel Icereaver
+Drakkel Wolf Whisker
+Edge of the Taskmaster
+Forged Velium Throwing Spear
+Frost Giant Scout Beard
+Gauntlets of Power
+Glowing Worm Bile
+Head of the Taskmaster
+Ice Weave
+Icetooth's Claws
+Icetooth's Pelt
+Murdrick's Plan
+Murdrick's head
+Narandi's Lance
+Narandi's head
+Old Worn Talisman
+Rune Etched Icewurm Fang
+Runebranded Stone Buckler
+Shard Wurm Fang
+Shardtooth's Flayed Skin
+Shardwurm Claw
+Shardwurm Eye
+Shardwurm Skin
+Shardwurm Stinger
+Spiked Steel Wrap
+Tizmak Leggings
+Tizmak Sleeves
+Tizmak Tunic
+Velium Bolt
+Velium Etched Stone Mace
+Velium Short Blade
+Velium Shuriken
+Velium War Wolf Choker
+Vluudeen's Tail
+War Wolf Choker
+White Scaled Leggings
+White Scaled Tunic
+Wurm Tendon Whip
+Yakman Parts
+Belt of the Great Turtle
+Bloodstained Fang
+Bloody Cougar Bone
+Club of the Ice Ocean
+Cougar Claw Earring
+Fang of the Garou
+First part of an Iceclad Map
+Fourth part of an Iceclad Map
+Gnomish Pirate Cloak
+Gnomish Pirate Hat
+Gnomish Pirate Rapier
+High Quality Cougarskin
+Iceclad Cutlassfish
+Knotted Turtlebone Ring
+Lodizal Shell Boots
+Medium Quality Cougarskin
+Otterhide Bracers
+Otterhide Gloves
+Otterhide Leggings
+Otterhide Sleeves
+Otterhide Tunic
+Seaworthy Planking
+Second part of an Iceclad Map
+Section of Lodizal's Shell
+Skin of the Garou
+Spear of Winter
+Stormfeather Talons
+Wolves Eye Necklace
+A Gossamer Wing
+Bjek's Head
+Block of Living Granite
+Corrupted Fauns Skin
+Corrupted Panther Skin
+Corrupted Unicorns Skin
+Crescent Blades of Luclin
+Delar's Head
+Dragon Meat
+Emerald Dragon Scales
+Faun Flute
+Faun Hoof
+Frostgiant Overseers Head
+Glob of Tar
+Gloves of Kromzek Might
+Grenk's Head
+Haze Panther Eye
+Holgresh Fur
+Holgresh Grand Vizier Beads
+Holgresh Meat
+Holgresh Mojo Stick (Air)
+Holgresh Mojo Stick (Earth)
+Holgresh Mojo Stick (Fire)
+Holgresh Mojo Stick (Water)
+Holgresh Spirit Beads
+Holgresh Wing
+Kromrif Laborer Pick
+Kromzek Architect Blueprints
+Kromzek Foreman Helm
+Kromzek Mercenary Brooch
+Kromzek Surveyor Scope
+Mercenary Assignments
+Oily Goo Secretion
+Panther Meat
+Raptor Meat
+Scimitar of the Emerald Dawn
+Sentient Bracer
+Sentient Breastplate
+Sentient Gauntlets
+Sentient Greaves
+Sentient Helm
+Sentient Plate Boots
+Sentient Two-Handed Axe
+Sentient Vambraces
+Sifaye Dust
+Skydarkener
+Storm Giant Meat
+Strong Raptor Gut
+Strong Wooden Branch
+Tanglewood Shield
+Tar goo strands
+Tigeraptor Hide
+Amcilla's Talisman
+Atpaev's Talisman
+Ayillish's Talisman
+Barbed Velium Spear
+Bloody Claw of Draazak
+Bloody Claw of Jerigozia
+Bratavar's Talisman
+Broken Disk
+Bufa's Talisman
+Cargalia's Talisman
+Crial's Talisman
+Del Sapara's Talisman
+Derasinel's Talisman
+Draazak's Talisman
+Dragon Blood
+Dragonhide Belt
+Entariz's Talisman
+Esorpa's Talisman
+Exquisite Velium Battle Axe
+Exquisite Velium Battlehammer
+Exquisite Velium Brawl Stick
+Exquisite Velium Claidhmore
+Exquisite Velium Reinforced Bow
+Exquisite Velium Spear
+Exquisite Velium War Lance
+Exquisite Velium Warsword
+First Brood Talisman
+First Half of Al`Tarlkal's Tome
+First Half of Vin`Pekir's Tome
+Fusible Velium Ore
+Gafala's Talisman
+Gangel's Talisman
+Glati's Talisman
+Great Dragon's Head
+Greater Dragon's Head
+Harla Dar's Talisman
+Heavy Dragonhide Belt
+Heavy Dragonhide Breastplate
+Heavy Dragonhide Gauntlets
+Heavy Dragonhorn Boots
+Heavy Dragonhorn Bracers
+Heavy Dragonleg Breeches
+Heavy Dragonskin Mask
+Heavy Dragonskull Helm
+Heavy Dragonspine Vambraces
+Heavy Dragonwing Cloak
+Heavy Dragonwing Mantle
+Hechaeva's Talisman
+Honed Velium Warsword
+Honvar's Talisman
+Huge Drake Wing
+Ice Burrower Meat
+Ice Burrower Silk
+Ice Burrower Skin
+Icehackle's Pelt
+Ionat's Talisman
+Jen Sapara's Talisman
+Kar Sapara's Talisman
+Karkona's Talisman
+Klandicar's Talisman
+Linbrak's Talisman
+Makala's Talisman
+Matchless Dragonhide Belt
+Matchless Dragonhide Breastplate
+Matchless Dragonhide Gauntlets
+Matchless Dragonhorn Boots
+Matchless Dragonhorn Bracers
+Matchless Dragonleg Breeches
+Matchless Dragonskin Mask
+Matchless Dragonskull Helm
+Matchless Dragonspine Vambraces
+Matchless Dragonwing Cloak
+Matchless Dragonwing Mantle
+Mav Sapara's Talisman
+Mazi's Talisman
+Myga's Talisman
+Neordla's Talisman
+Onava's Talisman
+Pantrilla's Talisman
+Peerless Dragonhide Belt
+Peerless Dragonhide Breastplate
+Peerless Dragonhide Gauntlets
+Peerless Dragonhorn Boots
+Peerless Dragonhorn Bracers
+Peerless Dragonleg Breeches
+Peerless Dragonskin Mask
+Peerless Dragonskull Helm
+Peerless Dragonspine Vambraces
+Peerless Dragonwing Cloak
+Peerless Dragonwing Mantle
+Quoza's Talisman
+Rak Sapara's Talisman
+Reinforced Dragonhide Belt
+Reinforced Dragonhide Breastplate
+Reinforced Dragonhide Gauntlets
+Reinforced Dragonhorn Boots
+Reinforced Dragonhorn Bracers
+Reinforced Dragonleg Breeches
+Reinforced Dragonskin Mask
+Reinforced Dragonskull Helm
+Reinforced Dragonspine Vambraces
+Reinforced Dragonwing Cloak
+Reinforced Dragonwing Mantle
+Second Half of Al`Tarlkal's Tome
+Second Half of Vin`Pekir's Tome
+Sivar's Talisman
+Sontalak's Talisman
+Stronghorn's Horn
+Tantor's Tusk
+Tsiraka's Claws
+Uiliak`s Talisman
+Velium Hound Fur
+Velium Mastodon Fur
+Vitaela's Talisman
+Von's Talisman
+Vraptin's Talisman
+Worked Dragonhide Belt
+Worked Dragonhide Breastplate
+Worked Dragonhide Gauntlets
+Worked Dragonhorn Boots
+Worked Dragonhorn Bracers
+Worked Dragonleg Breeches
+Worked Dragonskin Mask
+Worked Dragonskull Helm
+Worked Dragonspine Vambraces
+Worked Dragonwing Cloak
+Worked Dragonwing Mantle
+Yal's Talisman
+Yeldema's Talisman
+Zil Sapara's Talisman
+Aegis of Ice
+Amulet of Insight
+Bindings of the Scribe
+Blade of the Seneschal
+Boots of the Huntsman
+Cloak of the Cave Bear
+Dain Frostreaver's Head
+Frostreaver
+Frostreaver's Embroidered Cloak
+Frostreaver's Velium Crown
+Gown of the Chamberlain
+Grizznot's Claws
+Head of the Huntsman
+Head of the Royal Scribe
+Incandescent Bracer
+Jagged Ice Shard
+Juliah's Head
+Ornate Velium Pendant
+Ring of Winter
+Royal Velium Frosted Boots
+Royal Velium Frosted Bracer
+Royal Velium Frosted Gauntlets
+Royal Velium Frosted Greaves
+Royal Velium Frosted Helmet
+Royal Velium Frosted Plate
+Royal Velium Frosted Vambraces
+Shield of the Seneschal
+Staff of the Chamberlain
+Tri-Plated Golden Hackle Hammer
+Velium Battle Axe
+Velium Round Shield
+A Giant's Broom
+Antlered Mask
+Axe of the Frost
+Axe of the Kromzek Kings
+Barbed Dragonscale Pauldrons
+Bear Skins of Rage
+Belt of Dwarfskulls
+Berserker's Axe
+Black Bear Pelt Cloak
+Black Blade of Tormenting
+Blade of Carnage
+Bladesman's Sword
+Bladesman's Axe
+Bloody Protector of Zek's Head
+Book of Strategy
+Boots of Dark Passage
+Boots of the Storm
+Boots of the Vindicator
+Bow of the Huntsman
+Bracelet of Swirling Smoke
+Bracer of Midnight
+Breastplate of Eradication
+Ceremonial Giant War Sword
+Ceremonial Helm
+Cerulean Gauntlets
+Chestplate of Vindication
+Chunk of Chronium Ore
+Circlet of Cerulean Smoke
+Circlet of Tallon
+Circlet of Vallon
+Cloak of the Falling Stars
+Cloak of the Maelstrom
+Coldain Skin Boots
+Collector's Kromrif Signet
+Corroded Breastplate
+Corroded Chain Boots
+Corroded Chain Bracer
+Corroded Chain Coif
+Corroded Chain Gauntlets
+Corroded Chain Leggings
+Corroded Chain Sleeves
+Corroded Chain Tunic
+Corroded Plate Boots
+Corroded Plate Bracer
+Corroded Plate Gauntlets
+Corroded Plate Greaves
+Corroded Plate Helmet
+Corroded Plate Vambraces
+Crown of the Kromzek Kings
+Dark Spear of Venom
+Defiance
+Derakor's Head
+Dire Wolf-Hide Cloak
+Doldigun's head
+Drakkel Wolfhide Gloves
+Drakkel Wolfhide Leggings
+Engraved Bone Pauldrons
+Engraved Skull Amulet
+Eroded Leather Boots
+Eroded Leather Bracelet
+Eroded Leather Cap
+Eroded Leather Gloves
+Eroded Leather Leggings
+Eroded Leather Sleeves
+Eroded Leather Tunic
+Eyepatch of the Shadows
+Flamesong
+Flayed Barbarian Hide Mask
+Flayed Barbarian Skin Leggings
+Foreign Power Source
+Frosty Cave Trout
+Frozen Shard
+Gauntlets of Iron Tactics
+Gem of Rage
+Giant Militia Longsword
+Giant Scalemail Belt
+Giant Scalemail Boots
+Giant Scalemail Bracer
+Giant Scalemail Cloak
+Giant Scalemail Gauntlets
+Giant Scalemail Gloves
+Giant Scalemail Gorget
+Giant Scalemail Helm
+Giant Scalemail Leggings
+Giant Scalemail Mantle
+Giant Scalemail Mask
+Giant Scalemail Sleeves
+Giant Scalemail Tunic
+Gladiator's Chain Leggings
+Gladiator's Chain Sleeves
+Glimmering Axe
+Glimmering Mithril Torque
+Glowing Black Sword
+Greaves of Avoidance
+Hammer of Battle
+Hammer of Rage
+Head of Staff Sergeant Drioc
+Helmet of Rallos Zek
+Iceshaper's Staff
+Idol of Corruption
+Idol of Decay
+Idol of Disease
+Idol of Erosion
+Iron Scroll of War
+Kallis' Head
+King Tormax's Head
+Lieutenant's Helm
+Living Thunder Earring
+Mask of Malediction
+Mask of War
+Militia Captain Tunic
+Noble's Walking Staff
+Orb of the Infinite Void
+Reaver
+Ring of Destruction
+Ring of Lightning
+Rock Fern
+Royal Kromrif blood
+Rune Covered Torque
+Runed Frost Blade
+Scale of Hsagra
+Scepter of Mastery
+Section of a Draconic Tome
+Shield of Battle
+Sickly Glowing Orb
+Silver Dragon Tattoo
+Silver Steel Gauntlets
+Silvery Belt of Contention
+Silvery Mask
+Smashed Protector of Zek's Head
+Steel Wristband of Strategy
+Storm Giant Toes
+Swiftblade of Zek
+Teachings of Gkrean
+The Horn of Hsagra
+Thin Banded Belt
+Thunder Etched Gauntlets
+Thunder Runed Dagger
+Thunder Runed Great Sword
+Thunder Runed War Spear
+Torn Enchanted Silk Boots
+Torn Enchanted Silk Gloves
+Torn Enchanted Silk Pantaloons
+Torn Enchanted Silk Robe
+Torn Enchanted Silk Sleeves
+Torn Enchanted Silk Turban
+Torn Enchanted Silk Wristband
+Tuuak's Fishgutter
+Tuuak's Fishing Pole
+Vehement Sword of Reivaj
+Velium Encrusted Gauntlets
+Velium Swiftblade
+Velium War Mask
+War Bow of Rallos Zek
+White Bear Pelt Cloak
+White Dragon Scale Sash
+Wrist Guard of Thunder
+Wurmscale Scroll
+Ayill's Aged Stone Shield
+Bloodshrine Necklace
+Brightwood Spear
+Celestial Essence Robe
+Charred Black Staff
+Circlet of the Struggle
+Coldstone Wreath
+Craslith
+Decisive Boots of the Kin
+Delgin's Sceptre
+Despair Needle
+Dragon's Eye Sage Ring
+Dragons Blood Earring
+Dragons Tear Earring
+Drake Egg
+Drake Fang
+Elder's Earring
+Falgiron Staff
+Focused Ethereal Dagger
+Focused Ethereal Great Staff
+Focused Ethereal Greatsword
+Focused Ethereal Long Sword
+Focused Ethereal Morning Star
+Focused Ethereal Rapier
+Focused Ethereal Scimitar
+Focused Ethereal Short Sword
+Focused Ethereal Spear
+Focused Ethereal Warhammer
+Frosted Gloves
+Grayder's Cloak
+Guardian Arms
+Guardian Boots
+Guardian Bracer
+Guardian Breastplate
+Guardian Choker
+Guardian Gauntlets
+Guardian Girdle
+Guardian Helmet
+Guardian Leggings
+Guardian Pauldrons
+Guardian Robe
+Guardian Shield
+Guardian Sword
+Head of a Kromzek Spy
+Jar`Nal Long Sword
+Joined Ethereal Cape
+Kin Lore Necklace
+Kin Magi Earring
+Laoch Combat Gauntlets
+Laoch Meditation Beads
+Laoch Warhammer
+Large Coin Purse
+Lath Drinor
+Mantle of Absorption
+Mask of the Dragon Slayer
+Medium Coin Purse
+Mystical Laig Staff
+Mythril Edged Skull Splitter
+Oiled Greaves
+Outrider's Taming Whip
+Reliant Cap of the Kin
+Runed Elder Staff
+Runed Writ
+Saldaren Spear
+Seer Lore Book
+Sentry Boots
+Sentry Bracer
+Sentry Breastplate
+Sentry Choker
+Sentry Gauntlets
+Sentry Girdle
+Sentry Helmet
+Sentry Leggings
+Sentry Maul
+Sentry Pauldrons
+Sentry Robe
+Sentry Shield
+Shrewd Cloak of the Kin
+Shrine Key
+Skyfury Scimitar
+Soul Defiler
+Spy Report
+Square Helm
+Titans Fist
+Tome of Elemental Cognizance
+Tome of Elemental Contemplation
+Tome of Elemental Thought
+Tome of Elemental Understanding
+Totem of Disruption
+Twisted Oaken Staff
+Velium Etched Circlet
+Velium Gargoyle Pieces
+Very Large Coin Purse
+Walrusbone Shield
+Winters Fury
+Wurm Bone Ring
+Wurm Egg
+Wurm Lord Shawl
+Wurm Scale Cape
+Wyvern Claw
+Wyvern Claw Mask
+Wyvern Hide Boots
+Wyvern Hide Tunic
+Wyvern Wing Cape
+Xialn Mask
+Yelinak's Head
+Yelinak's Talisman
+Ancient Rusted Key
+Crystalline Silk
+Crystalline Silk Net
+Ball of Velium
+Blackened Crystalline Robe
+Chipped Amber
+Chipped Black Pearl
+Chipped Black Sapphire
+Chipped Bloodstone
+Chipped Diamond
+Chipped Jade
+Chipped Jasper
+Chipped Sapphire
+Chipped Star Rose Quartz
+Chipped Velium Amulet
+Crystal Covered Shroud
+Crystal Fiber
+Crystal Grinder
+Crystal Lined Slippers
+Crystal Webshield
+Crystalized Web Silk
+Crystalline Belt
+Crystalline Robes
+Crystallized Blade
+Crystallized Sword
+Crystallized Two Handed Sword
+Foreman's Skull Cap
+Frozen Long Sword
+Frozen Two Handed Sword
+Glowing Velium Axe
+Herbalist Pack
+Klezendian Crystal
+Messenger of the Queen
+Onyxbrand
+Ry`Gorr Mining Pick
+Sceptre of the Coldain Ancients
+Shimmering Velium Ruby
+Spider Fang Choker
+Stalagterror Spine Spear
+Velium Crawler Eye
+A chipped fang
+Aged Velium Claidhmore
+Balanced Velium Warsword
+Bat Fur Belt
+Carved Dragonbone Spear
+Carved Velium Spear
+Tempered Velium Knuckledusters
+Chelaki Tail
+Chetari Bonecrafted Shield
+Chetari Wardstaff
+Chipped Onyx Sapphire
+Cowl of Mortality
+Cracked Claw of Zlandicar
+Crafted Velium Battle Axe
+Crafted Velium Brawl Stick
+Crafted Velium Claidhmore
+Crafted Velium Spear
+Crafted Velium War Lance
+Crafted Velium Warsword
+Double Recurved Velium Bow
+Engraved Velium Spear
+Etched Velium Battlehammer
+Etched Velium War Lance
+Etched Velium Warsword
+Fired Velium Warsword
+Flayed Paebala Boots
+Flayed Paebala Gloves
+Flayed Paebala Leggings
+Flayed Paebala Tunic
+Folded Velium War Lance
+Folded Velium Warsword
+Forged Velium Battle Axe
+Forged Velium Claidhmore
+Forged Velium Warsword
+Frakadar's Talisman
+Gauntlets of Mortality
+Golden Tablet of Draconic Strategy
+Hammered Velium Warsword
+Heavy Velium Spear
+Heavy Velium War Lance
+Honed Velium War Lance
+Infestation
+Jaled Dar's Tomb Key
+Large Dragonbone Shard
+Light Velium Battle Axe
+Light Velium Battlehammer
+Light Velium Bow
+Light Velium Brawl Stick
+Light Velium Claidhmore
+Light Velium Spear
+Light Velium War Lance
+Light Velium Warsword
+Massive Dragonclaw Shard
+Massive Velium Battle Axe
+Massive Velium Claidhmore
+Massive Velium Knuckledusters
+Neb's head
+Old Dragon Horn
+Paebala Warbone
+Phase Spider Blood
+Phase Spider Carapace
+Pliable Goo
+Poison Etched Wristband
+Polished Velium Battlehammer
+Queen's Carapace
+Recurved Velium Bow
+Runed Velium Battlehammer
+Runed Velium Claidhmore
+Scroll of Enlightenment
+Scroll of Insight
+Scroll of Knowledge
+Scroll of Scaled Tactics
+Sharpened Velium Spear
+Shining Velium Battlehammer
+Small Dragonbone Shard
+Spirit Talker's Headdress
+Spirit Talker's War Lance
+Swarmer Pincers
+Tempered Velium Battle Axe
+Tempered Velium War Lance
+Tempered Velium Warsword
+Vaniki's Heart
+Velium Brawl Stick
+Velium Claidhmore
+Velium Knuckledusters
+Velium War Lance
+Velium Warsword
+Weighted Velium Battle Axe
+Weighted Velium Brawl Stick
+Willsapper
+Wrapped Entropy Serpent Spine
+Wrapped Velium Bow
+Wrapped Velium Brawl Stick
+Zlandicar's Heart
+Zlandicar's Talisman
+Ancient Fishing Pole
+Ancient Seahorse Hide Cloak
+Ball of Kelp
+Behemoth's Fangs
+Bowl of Watery Protection
+Bulthar Hide
+Cloak of the Seacaller
+Dragonbane Herb
+Drums of the Beast
+Enchanted Kelp Gauntlets
+Enchanted Kelp Leggings
+Fellspine's Tail
+Gloomwater Bow
+Gloves of Watery Distraction
+Immaculate Shell Horn
+Lyendlln's Lute
+Mask of Swirling Water
+Molkor Hide
+Neriad Shawl
+Netted Kelp Amice
+Netted Kelp Bracelet
+Netted Kelp Cap
+Netted Kelp Choker
+Netted Kelp Cloak
+Netted Kelp Gloves
+Netted Kelp Lined Shoes
+Netted Kelp Pantaloons
+Netted Kelp Sash
+Netted Kelp Sleeves
+Netted Kelp Tunic
+Netted Kelp Veil
+Ornately Runed Shell Necklace
+Runed Sea Shell
+Runed Shell Necklace
+Runed Walrus Fang Ring
+Runed Walrus Hide Cloak
+Seahorse Spine Bracelet
+Shield of the Tsunami
+Siren Hair Earring
+Siren Hair Locket
+Sleeves of the Kelpmaidens
+Spiked Seahorse Hide Belt
+Spined Seahorse Hide Breastplate
+Swordfish tooth
+Walrus Hide Pauldrons
+Walrus Skin Drum
+Wavecrasher
+Woven Kelp Sandals
+Blue Resistance Stone
+Clawed Guardian Bracer
+Corrupted Gargoyle Stone
+Dainty Gloves
+Dragon Scaled Mask
+Green Resistance Stone
+Mask of Tinkering
+Opalescent Gargoyle Stone
+Priceless Velium Battlehammer
+Priceless Velium Claidhmore
+Priceless Velium Spear
+Primal Velium Battle Axe
+Primal Velium Battlehammer
+Primal Velium Brawl Stick
+Primal Velium Claidhmore
+Primal Velium Reinforced Bow
+Primal Velium Spear
+Primal Velium War Lance
+Primal Velium Warsword
+Prismatic Dragon Scale
+Red Resistance Stone
+Salindrite Dagger
+Sceptre of Destruction
+Shield of the Clawed Guardian
+Shroud of Longevity
+Smolder
+Staff of the Elder Claws
+Staff of the Morning Dew
+White Resistance Stone
+Writ of Dragonkind
+Abashi`s Rod of Disempowerment
+Akkirus` Mask of Warfare
+Amulet of the Dreadgazer
+Amulet of the Storm
+Ancient Fire Etched Flamberge
+Ancient Leather Boots
+Ancient Leather Bracelet
+Ancient Leather Cap
+Ancient Leather Gloves
+Ancient Leather Leggings
+Ancient Leather Sleeves
+Ancient Leather Tunic
+Ancient Pirate's Eyepatch
+Ancient Silk Boots
+Ancient Silk Gloves
+Ancient Silk Pantaloons
+Ancient Silk Robe
+Ancient Silk Sleeves
+Ancient Silk Turban
+Ancient Silk Wristband
+Ancient Tarnished Breastplate
+Ancient Tarnished Chain Boots
+Ancient Tarnished Chain Bracer
+Ancient Tarnished Chain Coif
+Ancient Tarnished Chain Gauntlets
+Ancient Tarnished Chain Leggings
+Ancient Tarnished Chain Sleeves
+Ancient Tarnished Chain Tunic
+Ancient Tarnished Greaves
+Ancient Tarnished Plate Boots
+Ancient Tarnished Plate Bracelet
+Ancient Tarnished Plate Gauntlets
+Ancient Tarnished Plate Helmet
+Ancient Tarnished Vambraces
+Ancient Wurm Hide Greaves
+Ancient Wurm Hide Robe
+Ancient Wyvern Hide Boots
+Ancient Wyvern Hide Leggings
+Ancient Wyvern Hide Sleeves
+Ancient Wyvern Hide Tunic
+Axe of Resistance
+Barrier of Sound
+Baton of Flame
+Beldron's Vambraces of Impiety
+Belt of the Destroyer
+Black Rock Maul of Crushing
+Black Symbol
+Black Tear
+Blackstar, Mace of Night
+Blydreln's Bane
+Boots of Superiority
+Boots of the Dead Dream
+Boots of the Destroyer
+Bow of the Destroyer
+Bow of the Silver Fang
+Bracelet of Protection
+Bracelet of the Deep Sea
+Bracelet of the Sky
+Breastplate of Superiority
+Brother Xave's Headband
+Camii`s Bracer of Vigor
+Cekenar's Claw
+Chestplate of Fiery Might
+Circlet of Suffering
+Circlet of Summer
+Claw of Lightning
+Cloak of Silver Eyes
+Cloak of Thorns
+Cloak of Venom
+Cloak of the Sky
+Crown of Resiliance
+Crystasia`s Crystal Ring
+Dagarn's Tail
+Dawncaller, Blade of the Morning
+Do`Vassir`s Gauntlets of Might
+Dragon Skin Bracelet
+Dragonrib Club
+Dragonspine Rapier
+Earring of the Icecaster
+Ebony Headband
+Emerald Bastardsword of Purity
+Emerald Symbol
+Emerald Tear
+Eye of the Rigtorgn
+Facesmasher
+Feeliux`s Cord of Velocity
+Fist of Lightning
+Flame Etched Short Sword
+Flame Kissed Symbol
+Flame Kissed Tear
+Frosted Ice Spike
+Frostwrath
+Gaudralek, Sword of the Sky
+Gharn's Rock of Smashing
+Girdle of Dark Power
+Gloves of Stability
+Glowing Drake Orb
+Great Spear of Dawn
+Greaves of the Deep Sea
+Hand of the Master
+Helm of the Deep Sea
+Helmet of the Crawler
+Hobart`s War Helmet
+Ikatiar's Stinger
+Jaelen's Katana
+Katana of Pain
+Kelsiferous' Armband of Artistry
+Kreizenn's Flame
+Lance of Thunder
+Lendiniara's Talisman
+Maclaer`s Boots of Silence
+Mask of Fall
+Mask of Superiority
+Mask of Terror
+Mask of Venom
+Mask of the Sky
+Medal of Deep Thought
+Meljeldin, Bane of Giants
+Melodic Charm
+Mithril Boots
+Mithril Gauntlets
+Mithril Helm
+Mrylokar's Dagger of Blood
+Mrylokar`s Dagger of Vengeance
+Necklace of Nightstalking
+Net of the Deep Sea
+Nevederia's Claw
+Nevederia's Horn
+Nevederia's Left Eye
+Nevederia's Right Eye
+Onyx Chain Leggings
+Onyx Chain Sleeves
+Onyx Gauntlets
+Orb of the Crimson Bull
+Orb of the Deep Sea
+Palladius' Axe of Slaughter
+Pauldrons of Blight
+Platinum Symbol
+Platinum Tear
+Poison Soaked Tunic
+Poison Symbol
+Poison Tear
+Reaper's Ring
+Rekeklo's War Sword
+Ring of Relkententinar
+Ring of Superiority
+Ring of the Sky
+Rocksmasher
+Rowyl`s Metal Armguards
+Ruby Symbol
+Ruby Tear
+Runed Fang Necklace
+Runed Symbol
+Runed Tear
+Sal`Varae`s Robe of Darkness
+Serrated Symbol
+Serrated Tear
+Shadow Fang Necklace
+Shawl of Perception
+Shield of Fury
+Shield of Midnight
+Shield of Thorns
+Shield of the Dawn
+Shield of the Protector
+Shield of the Wurms
+Shining Metallic Pantaloons
+Shiny Metallic Gloves
+Shiny Metallic Sleeves
+Shovel of the Harvest
+Silent Fang Necklace
+Silver Bracelet of Rage
+Silver Chains
+Silver Dagger of Destruction
+Silver Disk
+Silver Symbol
+Silver Tear
+Silver Whip of Rage
+Siren Song, Dagger of the Sea
+Sirran`s Boots of Insanity
+Sky Watcher's Monocle
+Sledge of Smashing
+Solist`s Earring of Insight
+Spinning Orb of Confusion
+Sprinkler of the Spirits
+Ssra`s Bloodstone Eyepatch
+Staff of the Silent Star
+Tattered Silk Boots
+Tattered Silk Gloves
+Tattered Silk Pantaloons
+Tattered Silk Robe
+Tattered Silk Sleeves
+Tattered Silk Turban
+Tattered Silk Wristband
+Thunderstone
+Tolan`s Longsword of the Glade
+Transparent Eyepatch
+Trident of the Deep Sea
+True Mithril Breastplate
+Truesight Helmet
+Tvenken`s Slippers of Silence
+Twisted Steel Bastard Sword
+Twisted Steel Gauntlets
+Unadorned Breastplate
+Unadorned Chain Boots
+Unadorned Chain Bracer
+Unadorned Chain Coif
+Unadorned Chain Gauntlets
+Unadorned Chain Leggings
+Unadorned Chain Sleeves
+Unadorned Chain Tunic
+Unadorned Leather Boots
+Unadorned Leather Bracelet
+Unadorned Leather Cap
+Unadorned Leather Gloves
+Unadorned Leather Leggings
+Unadorned Leather Sleeves
+Unadorned Leather Tunic
+Unadorned Plate Boots
+Unadorned Plate Bracer
+Unadorned Plate Gauntlets
+Unadorned Plate Greaves
+Unadorned Plate Helmet
+Unadorned Plate Vambraces
+Unopenable Box
+Valtron`s Necklace of Wonder
+Vambraces of Discontent
+Velium Maul of Superiority
+Verlekarnorm's Horn of Disaster
+Viik`s Pauldrons of Pain
+Vyemm`s Fang
+Vyemm`s Left Eye
+Vyemm`s Right Eye
+Vyrinn`s Earring of Insanity
+Wand of the Black Dragon Eye
+White Symbol
+White Tear
+Whitestone Shield
+Windraider`s Belt
+Wurm Claw Pauldrons
+Wurmscale Fistwraps
+Yakatizma`s Shield of Crafting
+Zeriphra's Dagger of Blood
+Abram's Axe of the Stoic
+Bone finger key
+Ceremonial Wedding Sword
+Chilled Scythe
+Crystal Key
+Crystallized Shadow Belt
+Crystallized Shadow Boots
+Crystallized Shadow Claymore
+Crystallized Shadow Dagger
+Crystallized Shadow Gloves
+Crystallized Shadow Helm
+Crystallized Shadow Leggings
+Crystallized Shadow Long Sword
+Crystallized Shadow Rapier
+Crystallized Shadow Scimitar
+Crystallized Shadow Short Sword
+Crystallized Shadow Sleeves
+Crystallized Shadow Spear
+Crystallized Shadow Star
+Crystallized Shadow Tunic
+Crystallized Shadow Warhammer
+Crystallized Shadows
+Diamond Wedding Band
+Embalmers Skinning Knife
+Fading Shadow Claymore
+Fading Shadow Dagger
+Fading Shadow Long Sword
+Fading Shadow Rapier
+Fading Shadow Scimitar
+Fading Shadow Short Sword
+Fading Shadow Spear
+Fading Shadow Staff
+Fading Shadow Star
+Fading Shadow Warhammer
+Finely Crafted Velium Ring
+Fingerbone Necklace
+Frost Covered Tome
+Frosty key
+Gnome Skin Belt
+Gnome Skin Boots
+Gnome Skin Gloves
+Gnome Skin Gorget
+Gnome Skin Leggings
+Gnome Skin Mask
+Gnome Skin Skullcap
+Gnome Skin Sleeves
+Gnome Skin Tunic
+Gnome Skin Wristband
+Graktar's Signet Ring
+Harnessed soul gem
+Laced Veil
+Large metal key
+Maggot Ridden Flesh
+Magnetic Dirk of Distraction
+Mummy Wrappings
+Prophecy Scroll
+Robe of Icy Undeath
+Rune Etched Wedding Band
+Shaded Torch
+Shadowbone Bracers
+Shadowbone Dagger
+Shadowbone Earring
+Shadowbone Spear
+Shadowbone Staff
+Shield of Shadows
+Signet Ring
+Small rusty key
+Sorcerous Bowl
+Sparkling Soul Necklace
+Student's Homework
+Talisman of Vhal Sera
+Teacher's Syllabus
+Three Toothed Key
+Tserrina's Staff
+Tserrina's Symbol
+Tserrina's Whip
+Tserrina's Key
+Tserrina`s Robe
+Velium Spiked Skull Helm
+Vhal`Sera Skull Earring
+Barbed Ringmail
+Barbed Ringmail Gloves
+Barbed Ringmail Leggings
+Barbed Ringmail Shoulderpads
+Barbed Ringmail Sleeves
+Black Ice Boots
+Black Ice Leggings
+Black Ice Sleeves
+Black Ice Wrist Guard
+Blood Runed Boots
+Blood Runed Gauntlets
+Blood Runed Girdle
+Blood Runed Greaves
+Blood Runed Scimitar
+Blood Runed Short Sword
+Bone Bracelet of Condemnation
+Bone Ring of Condemnation
+Book of Dawn
+Book of Twilight
+Boots of Bladecalling
+Bow of the Icepaw
+Bracelet of Frostbite
+Cold Steel Boots
+Cold Steel Breastplate
+Cold Steel Gauntlets
+Cold Steel Greaves
+Cold Steel Helmet
+Crystal Chitin Armplates
+Crystal Chitin Boots
+Crystal Chitin Chestguard
+Crystal Chitin Circlet
+Crystal Chitin Gauntlets
+Crystal Chitin Leggings
+Crystal Chitin Shield
+Crystal Crown of Confusion
+Crystal Dragon Eye
+Crystal Rod of Confusion
+Crystal Spider Eyes
+Crystalline Silk Belt
+Crystalline Silk Thread
+Crystalline Spider Fang
+Crystalline Torque
+Doljonijiarnimorinar
+Efreeti Ice Staff
+Fatecaller
+Frozen Efreeti Boots
+Frozen Turban
+Girdle of Wurmslaying
+Gloves of Bladecalling
+Glowing Red Stone
+Iceflame
+Icepaw Bangle
+Icepaw Kobold's Paw
+Icepaw Scalp
+Icepaw Skull Helm
+Icepaw War Claw
+Icicle Tunic
+Icicle Wristband
+Kobold Bone Gauntlets
+Kobold Jester's Crown
+Lute of the Howler
+Poisoned Whip
+Rijoely's Bracelet
+Rijoely's Dancing Rapier
+Rijoely's Earring
+Ring of the Frost Spiders
+Ring of the Frozen Flame
+Robe of Melding Auras
+Shadow Rager
+Shield of the Freezing Winds
+Shimmering Shard
+Shimmering Terror Hide Boots
+Shimmering Terror Hide Cloak
+Silver Chitin Hand Wraps
+Silver Chitin Wristband
+Silver Sword of Yalrek
+Snow Spider Legs
+Snow Storm Mask
+Spider Fur-Lined Boots
+Spider Fur Belt
+Spider Fur Cloak
+Spider Fur Collar
+Spider Fur Gloves
+Stein of Bitter Cold
+Sword of Blessings
+Sword of Pain
+Tijoely's Bracelet
+Tijoely's Dancing Rapier
+Tijoely's Earring
+Tiny Velium Gargoyle
+Velium Crystal Staff
+Velketor's Spell Book
+Venomous Axe of the Velium Brood
+Vermilion Orb of Torrefaction
+Vermilion Robe of Torrefaction
+White Spider Fur
+Amulet of Necropotence
+Amygdalan Tendril
+Ball of Everliving Golem
+Barbarian Spiritist`s Hammer
+Berserkers Ring
+Bile Etched Obsidian Choker
+BladeStorm, Katana of Steel Sleet
+Blighted Armband
+Blighted Boots
+Blighted Gloves
+Blighted Robe
+Blighted Skullcap
+Blighted Sleeves
+Blighted Trousers
+Blood Fire
+Bone-Clasped Girdle
+Bone Razor
+Brain of Cazic Thule
+Carmine Boots
+Carmine Gloves
+Carmine Pants
+Carmine Robe
+Carmine Sleeves
+Carmine Trinket
+Carmine Turban
+Cazic's Skin
+Child's Tear
+Cloak of the Fearsome
+Crimson Robe of Alendine
+Cryosilk Amice
+Cryosilk Bracelet
+Cryosilk Cap
+Cryosilk Choker
+Cryosilk Cloak
+Cryosilk Gloves
+Cryosilk Lined Shoes
+Cryosilk Pantaloons
+Cryosilk Robe
+Cryosilk Sash
+Cryosilk Sleeves
+Cryosilk Veil
+Cryosilk Webshield
+Darkwood Trunk
+DawnFire, Morning Star of Light
+Dweamorvine Garland
+Ethereal Mist Boots
+Ethereal Mist Helm
+Eye of Cazic Thule
+Eye of Fright
+Eyerazzia
+Fearsome Shield
+Flayed Turmoilskin Belt
+Fluxbladed Axe
+Girdle of the Diligent
+Green Oil
+Greenmist Boots
+Greenmist Bracer
+Greenmist Breastplate
+Greenmist Greaves
+Greenmist Helm
+Greenmist Mask
+Greenmist Vambraces
+Grotesque Girdle
+Halo of the Enlightened
+Head of the Serpent
+Imbrued Platemail Bracer
+Indicolite Gauntlets
+Lyssa`s Darkwood Piccolo
+Monsoon, Sword of the Swiftwind
+Nautilus Shield
+Nightmare Hide
+Pauldrons of Ferocity
+Puppet Strings
+Robe of Inspiration
+Rune Etched Boots
+Sash of Infinite Blows
+Scare Straw
+Shawl of Protection
+Shield of Rainbow Hues
+Shiverback-hide Armbands
+Shiverback-hide Boots
+Shiverback-hide Gloves
+Shiverback-hide Jerkin
+Shiverback-hide Leggings
+Shiverback-hide Wristbands
+Slime Blood of Cazic Thule
+Soul Leech, Dark Sword of Blood
+Spined Dragon Claws
+Staff of Undead Legions
+Staff of the Earthcrafter
+Swatch of Cryosilk
+Thorny Vine Boots
+Thorny Vine Bracer
+Thorny Vine Chestplate
+Thorny Vine Gauntlets
+Thorny Vine Greaves
+Thorny Vine Helm
+Thorny Vine Vambraces
+Thulian Wand
+Turmoil Warts
+Umbral Platemail Boots
+Umbral Platemail Bracer
+Umbral Platemail Breastplate
+Umbral Platemail Gauntlets
+Umbral Platemail Greaves
+Umbral Platemail Helm
+Umbral Platemail Vambraces
+Valorium Boots
+Valorium Bracers
+Valorium Chestplate
+Valorium Gauntlets
+Valorium Greaves
+Valorium Helmet
+Valorium Vambraces
+Vermiculated Armplates
+Vermiculated Boots
+Vermiculated Bracelet
+Vermiculated Crown
+Vermiculated Gloves
+Vermiculated Leggings
+Vermiculated Tunic
+Wand of Allure
+Wand of Darkness
+Wand of Lava
+Withered Totem of Widdershins
+Woven Shadow Gauntlets
+Woven Shadow Greaves
+Wraithstone
+Zombie Flesh Bracer
+Abhorrent Powder
+Apothic Boots
+Apothic Crown
+Apothic Gloves
+Apothic Kilt
+Apothic Robe
+Apothic Sleeves
+Apothic Warband
+Ashenbone Abbasi
+Ashenbone Axe
+Ashenbone Warhammer
+Band of Discipline
+Basoon Haste Gauntlets
+Beckon
+Bloodmoon
+Boots of the Righteous
+Boots of the Untamed
+Bracer of the Righteous
+Bracer of the Untamed
+Breastplate of the Righteous
+Breastplate of the Untamed
+Brewer's Mesh Cloak
+Briarzephyr
+Cloak of the Assassin
+Crown of Harmony
+Crown of Hatred
+Culler
+Darkbrood Mask
+Darkmetal Falchion
+Darkmetal Holy Water Sprinkler
+Darkwar Mask
+Dawnchaser
+Decrepit Hide
+Diamond Rod
+Encyclopedia Necrotheurgia
+Engineer's Ring
+Essence of a Vampire
+Etched Soldier's Crest
+Ethereal Mist Bracers
+Ethereal Mist Chestplate
+Ethereal Mist Gauntlets
+Ethereal Mist Greaves
+Ethereal Mist Vambraces
+Evensong
+Eye of Innoruuk
+Fleshless Skull
+Gardash
+Gauntlets of the Righteous
+Gauntlets of the Untamed
+Gloves of Harmony
+Greaves of Harmony
+Greaves of the Righteous
+Greaves of the Untamed
+Hand of the Maestro
+Hate Crystal
+Hauberk of Harmony
+Healer's Earring
+Helm of the Righteous
+Helm of the Untamed
+Hotof's Bracer
+Icebelt
+Imbrued Platemail Boots
+Imbrued Platemail Breastplate
+Imbrued Platemail Gauntlets
+Imbrued Platemail Greaves
+Imbrued Platemail Helm
+Imbrued Platemail Vambraces
+Indicolite Boots
+Indicolite Bracer
+Indicolite Breastplate
+Indicolite Greaves
+Indicolite Helm
+Indicolite Vambraces
+Insidious Gloves
+Insidious Halo
+Insidious Manacle
+Insidious Pantaloons
+Insidious Robe
+Insidious Sleeves
+Insidious Slippers
+Kelin`s Seven Stringed Lute
+Leatherfoot Sandals
+Legionnaire Scale Boots
+Legionnaire Scale Bracers
+Legionnaire Scale Breastplate
+Legionnaire Scale Gauntlets
+Legionnaire Scale Greaves
+Legionnaire Scale Helm
+Legionnaire Scale Pauldron
+Legionnaire Scale Vambraces
+Mantle of Study
+Martune Rapier
+Mempo of Likato
+Minor Signet of the Dark Knight
+Minor Signet of the Dark Soldier
+Neriak Ceremonial Robe
+Nightgrowth Blade
+Pauldrons of Power
+Prismatic Shield
+Raiment of the Chosen
+Rakusha Cloak
+Revultant Whip
+Ring of Pureblood
+Rod of Infinite Thought
+Rod of Unbound Thought
+Rune Etched Bracer
+Rune Etched Chestplate
+Rune Etched Gauntlets
+Rune Etched Greaves
+Rune Etched Helm
+Rune Etched Vambraces
+Runewood Shield
+Sandals of Harmony
+Scaled Hierophant Boots
+Scaled Hierophant Bracers
+Scaled Hierophant Breastplate
+Scaled Hierophant Cloak
+Scaled Hierophant Gauntlets
+Scaled Hierophant Greaves
+Scaled Hierophant Helm
+Scaled Hierophant Vambraces
+Shattered Emerald of Corruption
+Shield of the Immaculate
+Shield of the Stalwart Seas
+Shrieking Ahlspiess
+Shuriken of the Tranquil
+Six Note Blade
+Skinner's Belt
+Slowstone Amber
+Sode of Empowerment
+Songshawl
+Spiritguard
+Spitestone Shield
+Staff of Elemental Mastery: Earth
+Staff of Elemental Mastery: Fire
+Sunderfury
+Tainted Darksteel Breastplate
+Teir`Dal Sai
+Theologian Claymore
+Tome of Dark Healing
+Triumphant Mask
+Trueheart Shield
+Truesight Hammer
+Tunarian Scimitar
+Vambraces of Harmony
+Vambraces of the Righteous
+Vambraces of the Untamed
+Vexthorne
+Wand of Conflagration
+Wand of Souls
+Wand of Swiftness
+Wand of Swords
+Woven Shadow Boots
+Woven Shadow Bracer
+Woven Shadow Chestplate
+Woven Shadow Helm
+Woven Shadow Vambraces
+Wristguard of Harmony
+Acidic Venom
+Adamantium Bands
+Adumbrate Globe
+Aged Nectar
+Amethyst Amulet
+Amulet of the Void
+Animal Figurine
+Auburn Tessera
+Augmentor's Gem
+Azure Tessera
+Belt of Concordance
+Belt of Contention
+Belt of Iniquity
+Belt of Tranquility
+Belt of Transience
+Belt of Virtue
+Belt of the Pine
+Bird Whistle
+Bitter Honey
+Bixie Essence
+Bixie Sword Blade
+Black Face Paint
+Black Griffon Feather
+Black Nebulous Sapphire
+Black Silk Cape
+Black Sky Diamond
+Blade of Abrogation
+Blood Sky Amethyst
+Blood Sky Emerald
+Blood Sky Ruby
+Bloodsky Sapphire
+Bloodstained Hilt
+Bluish Stone
+Bottled Djinni
+Box of Winds
+Bracelet of Cessation
+Bracelet of Distortion
+Bracelet of Exertion
+Bracelet of Quiescence
+Breath of Gwan
+Broken Mirror
+Bronze Disc
+Carmine Spiroc Feather
+Ceramic Mask
+Ceremonial Belt
+Charm and Sacrifice
+Circlet of Brambles
+Copper Air Band
+Copper Disc
+Cracked Leather Belt
+Cracked Leather Eyepatch
+Crimson Tessera
+Crown of Elemental Mastery
+Crude Wooden Flute
+Dark Spiroc Feather
+Dark Wood
+Darkstone Emerald
+Diaphanous Globe
+Divine Honeycomb
+Djinni Aura
+Djinni Statuette
+Djinni Stave
+Djinni War Blade
+Dragon-hide Mantle
+Dried Leather
+Dulcet Nectar
+Dull Dragon Scale
+Ebon Shard
+Ebon Tessera
+Efreeti Battle Axe
+Efreeti Belt
+Efreeti Dirk
+Efreeti Great Staff
+Efreeti Long Sword
+Efreeti Mace
+Efreeti Magi Staff
+Efreeti Scimitar
+Efreeti Standard
+Efreeti Statuette
+Efreeti War Axe
+Efreeti War Bow
+Efreeti War Club
+Efreeti War Horn
+Efreeti War Maul
+Efreeti War Shield
+Efreeti War Spear
+Efreeti War Staff
+Efreeti Wind Staff
+Efreeti Zweihander
+Emerald Spiroc Feather
+Ethereal Amber
+Ethereal Amethyst
+Ethereal Emerald
+Ethereal Opal
+Ethereal Ruby
+Ethereal Sapphire
+Ethereal Topaz
+Faintly Glowing Diamond
+Feathered Cape
+Fine Cloth Raiment
+Fine Velvet Cloak
+Finely Crafted Amulet
+Finely Woven Cloth Amice
+Finely Woven Cloth Belt
+Finely Woven Gold Mesh
+Fire Sky Ruby
+Ganoric Poison
+Gem of Empowerment
+Gem of Invigoration
+Glowing Black Pearl
+Glowing Diamond
+Glowing Necklace
+Glowing Sapphire
+Gold Disc
+Golden Coffer
+Golden Efreeti Bracers
+Golden Efreeti Chestplate
+Golden Efreeti Gauntlets
+Golden Efreeti Greaves
+Golden Efreeti Ring
+Golden Efreeti Turban
+Golden Efreeti Vambraces
+Golden Hilt
+Gorgon Head
+Grey Damask Cloak
+Gridelin Globe
+Griffon Statuette
+Griffon Talon
+Hardened Clay
+Harpy Statuette
+Harpy Tongue
+Hazy Opal
+High Quality Raiment
+Honeyed Nectar
+Hyaline Globe
+Inlaid Choker
+Iron Disc
+Ivory Pendant
+Ivory Sky Diamond
+Ivory Tessera
+Jar of Honey
+Jester's Mask
+Key of Misfortune
+Large Diamond
+Large Opal
+Large Sky Diamond
+Large Sky Pearl
+Light Cloth Mantle
+Light Damask Mantle
+Lightning Rod
+Lost rabbit's foot
+Lush Nectar
+Manna Nectar
+Mantle of Woven Grass
+Miniature Sword
+Mithril Air Ring
+Mithril Bands
+Mithril Disc
+Mottled Spiroc Feather
+Music Box
+Nature Walker's Sky Emerald
+Nebulous Diamond
+Nebulous Ruby
+Nebulous Sapphire
+Noise Maker
+Obsidian Shard (Sky)
+Ochre Tessera
+Pearlescent Globe
+Pegasus Statuette
+Phosphoric Globe
+Platinum Disc
+Prismatic Sphere
+Pulsating Ruby
+Pulsating Sapphire
+Red Face Paint
+Replica of the Wyrm Queen
+Ring of Veeshan
+Saffron Spiroc Feather
+Shimmering Amber
+Shimmering Diamond
+Shimmering Opal
+Shimmering Pearl
+Shimmering Topaz
+Silken Mask
+Silken Strands
+Silken Wrap
+Silver Disc
+Silver Hoop
+Silvery Girdle
+Silvery Ring
+Sky Emerald
+Sky Pearl
+Sky Topaz
+Small Pick
+Small Ruby
+Small Sapphire
+Small Shield
+Songbird Statuette
+Sphinx Claw
+Sphinx Crown
+Sphinx Eye Opal
+Sphinx Hide
+Sphinx Tallow
+Sphinxian Circlet
+Sphinxian Ring
+Spiritualist`s Ring
+Spiroc Air Totem
+Spiroc Battle Staff
+Spiroc Earth totem
+Spiroc Elder's Totem
+Spiroc Feathers
+Spiroc Healing Totem
+Spiroc Peace Totem
+Spiroc Sky Totem
+Spiroc Statuette
+Spiroc Talon
+Spiroc Thunder Totem
+Spiroc Wind Totem
+Spiroc Wingblade
+Stein of Flowing Ichor
+Stone Amulet
+Storm Sky Opal
+Sweet Nectar
+Swirling Sphere of Color
+Symbol of Marr
+Symbol of Veeshan
+Tear of Quellious
+Thickened Nectar
+Tiny Ruby
+Treant Tear
+Verdant Tessera
+Virulent Poison
+Weight of the Gods
+White-tipped Spiroc Feather
+White Gold Earring
+White Spiroc Feather
+Whitened Treant Fists
+Wind Etched Boots of Ro
+Wind Etched Bracers of Ro
+Wind Etched Gauntlets of Ro
+Wind Etched Helm of Ro
+Wind Tablet
+Wooden Bands
+Worn Leather Mask
+Writ of Quellious
+Ysgaril Root
+Assassin's Boots
+Assassin's Bracer
+Assassin's Chain Leggings
+Assassin's Chain Sleeves
+Assassin's Chestguard
+Assassin's Coif
+Assassin's Gauntlets
+Berserker's Boots
+Berserker's Bracer
+Berserker's Breastplate
+Berserker's Gauntlets
+Berserker's Greaves
+Berserker's Helm
+Berserker's Vambraces
+Blade of the Swarm
+Boots of Conjuration
+Boots of Stability
+Boots of the Bonecaster
+Bracer of Stability
+Braid of Golden Hair
+Chestplate of Stability
+Circlet of Conjuration
+Crown of Stability
+Crown of the Bonecaster
+Essence of Nature
+Fist of Nature
+Fist of the Silver Moon
+Flute of the Sacred Glade
+Gauntlets of Stability
+Girdle of Living Thorns
+Gloves of Conjuration
+Gloves of the Bonecaster
+Golden Leaf Earring
+Greaves of Stability
+Lock of Blessed Unicorn Hair
+Maple Leaf Mask
+Massive Heartwood Thorn
+Melodic Boots
+Melodic Bracer
+Melodic Breastplate
+Melodic Gauntlets
+Melodic Greaves
+Melodic Helm
+Melodic Vambraces
+Nature's Melody
+Noctivagant Boots
+Noctivagant Bracer
+Noctivagant Breastplate
+Noctivagant Crown
+Noctivagant Gauntlets
+Noctivagant Greaves
+Noctivagant Vambraces
+Oakleaf Girdle
+Pantaloons of Conjuration
+Pantaloons of the Bonecaster
+Petrified Heartwood Flamberge
+Resplendent Crown
+Resplendent Gloves
+Resplendent Robe
+Resplendent Sleeves
+Resplendent Slippers
+Resplendent Trousers
+Resplendent Wristguard
+Robe of Conjuration
+Robe of the Bonecaster
+Sap Encrusted Branch
+Shadowy Assassin's Cape
+Silver Moon Arm Wraps
+Silver Moon Chest Wraps
+Silver Moon Headband
+Silver Moon Pants
+Silver Moon Slippers
+Silver Moon Wrist Wraps
+Sleeves of Conjuration
+Sleeves of the Bonecaster
+Sorcerer's Boots
+Sorcerer's Circlet
+Sorcerer's Gloves
+Sorcerer's Pantaloons
+Sorcerer's Robe
+Sorcerer's Sleeves
+Sorcerer's Wristband
+Spirit Weaver's Boots
+Spirit Weaver's Bracer
+Spirit Weaver's Breastplate
+Spirit Weaver's Coif
+Spirit Weaver's Gauntlets
+Spirit Weaver's Greaves
+Spirit Weaver's Vambraces
+Stonewood Mail
+Vambraces of Stability
+Woven Cord of Mistletoe
+Woven Vine Wristband
+Wristband of Conjuration
+Wristband of the Bonecaster
+Black Crown
+Black Knight
+Black Squire
+Black Throne
+Blue Crown
+Blue Knight
+Blue Squire
+Blue Throne
+Red Crown
+A Red Knight
+Red Squire
+Red Throne
+White Crown
+White Knight
+White Squire
+White Throne
+Blam Stick
+Book of Mischief
+Buckler of Doom
+Funny Money
+Jester (PoM)
+Library Card
+Lithiniaths Horn
+Lost Marble
+Mischief Mushroom Spores
+Red Knight
+Words of Wealth
+Words of Wealth: Bottom Left
+Words of Wealth: Bottom Right
+Words of Wealth: Top Left
+Words of Wealth: Top Right
+
+10 Dose Adrenaline Tap 
+10 Dose Ant's Potion 
+10 Dose Blood of the Wolf 
+10 Dose Ethira's Poison Antidote 
+10 Dose Greater Null Potion 
+10 Dose Greater Potion of Purity 
+10 Dose Kilva's Skin of Flame 
+10 Dose Null Potion 
+10 Dose Potion of Antiweight 
+10 Dose Potion of Aquatic Haunt 
+10 Dose Potion of Stinging Wort 
+10 Dose Potion of Unlife Awareness 
+A Black Crown 
+A Black Knight 
+A Black Squire 
+A Black Throne 
+A Blue Crown 
+A Blue Knight 
+A Blue Squire 
+A Blue Throne 
+A Broom 
+A Crude Stein 
+A Giants Reminder String 
+A Glowing Black Stone 
+A Gypsy Medallion 
+A Mithril Two-Handed Sword 
+A Red Crown 
+A Red Knight 
+A Red Squire 
+A Red Throne 
+A Shimmering Orb 
+A Shovel 
+A Stone Key 
+A Torch 
+A White Crown 
+A White Knight 
+A White Squire 
+A White Throne 
+Abalone Gorget 
+Abram's Axe of the Stoic 
+Acid Etched War Sword 
+Adamantite Band 
+Adamantite Bo Stick 
+Adamantite Club 
+Adamantite Epaulets 
+Advisor Robe 
+Aged Velium Claidhmore 
+Alligator Skin 
+Amber 
+Amulet of Insight 
+Amulet of Necropotence 
+Ancient Blade 
+Ancient Seahorse Hide Cloak 
+Ancient Snake Fang 
+Antlered Mask 
+Antonian Javelin 
+Aqualung 
+Arbitor's Combine Greatsword 
+Arctic Wyvern Belt 
+Arctic Wyvern Boots 
+Arctic Wyvern Cloak 
+Arctic Wyvern Gorget 
+Arctic Wyvern Hide 
+Arctic Wyvern Leggings 
+Arctic Wyvern Mask 
+Arctic Wyvern Skullcap 
+Arctic Wyvern Sleeves 
+Arctic Wyvern Tunic 
+Arctic Wyvern Wristbands 
+Argent Defender 
+Argent Protector 
+Astral Cloak of the Titans 
+Astral Leggings of the Titans 
+Atramentous Shield 
+Axe 
+Axe of Lost Souls 
+Axe of the Slayers 
+Ayillish's Talisman 
+Azure Sleeves 
+Backpack 
+Bag of Sewn Evil-Eye 
+Bag of the Tinkerers 
+Ball of Golem Clay 
+Band of Eternal Flame 
+Band of Flesh 
+Banded Cloak 
+Banded Gauntlets 
+Barbarian Hunting Spear 
+Barbarian Spiritist`s Hammer 
+Barbed Armplates 
+Barbed Dragonscale Boots 
+Barbed Dragonscale Pauldrons 
+Barbed Leather Whip 
+Barbed Ringmail 
+Barbed Velium Spear 
+Batfang Headband 
+Baton of Faith 
+Baton of Royal Stature 
+Batskull Earring 
+Bear Skins of Rage 
+Bear-hide Boots 
+Bearskin Potion Bag 
+Beartooth Necklace 
+Beer Stained Coldain Tunic 
+Belt of the Cenobite 
+Belt of the Great Turtle 
+Berries 
+Bioluminescent Orb 
+Black Alloy Girdle 
+Black Alloy Medallion 
+Black Bear Pelt Cloak 
+Black Chitin Leggings 
+Black Headband 
+Black Ice Boots 
+Black Ice Leggings 
+Black Ice Sleeves 
+Black Iron Girdle 
+Black Iron Medallion 
+Black Marble 
+Black Panther Skin 
+Black Pantherskin Belt 
+Black Pantherskin Boots 
+Black Pantherskin Cloak 
+Black Pantherskin Gloves 
+Black Pantherskin Leggings 
+Black Pantherskin Mask 
+Black Pantherskin Shoulderpads 
+Black Pantherskin Skullcap 
+Black Pantherskin Sleeves 
+Black Pantherskin Tunic 
+Black Pantherskin Wristbands 
+Black Sapphire 
+Black Sapphire Electrum Earring 
+Black Sapphire Platinum Necklace 
+Black Sapphire Velium Necklace 
+Black Steel Wrap 
+Black Tome with Silver Runes 
+Blackburrow Cask 
+Blackened Alloy Bastard Sword 
+Blackened Alloy Coif 
+Blackened Crystalline Robe 
+Blackened Sapphire 
+Blackened Wand 
+Blackjack 
+Blade of Carnage 
+Blade of Fiery Lamentations 
+Bladed Thulian Claws 
+Blight, Hammer of the Scourge 
+Block of Permafrost 
+Block of Velium 
+Blockcutter Gloves 
+Blood Ember Boots 
+Blood Ember Bracer 
+Blood Ember Gauntlets 
+Blood Ember Helm 
+Blood Fire 
+Blood Fork 
+Blood Point 
+Blood Runed Gauntlets 
+Blood Runed Girdle 
+Blood Runed Greaves 
+Blood Soaked Plasmatic Priest Robe 
+Blood Splattered Veil 
+Blood Wolf Harness 
+Bloodstained Mantle 
+Bloodstained Tunic 
+Bloodstone 
+Bloodstone Eyepatch 
+Blue Crown 
+Blue Diamond 
+Blue Diamond Electrum Earring 
+Bone Amulet of Blade Turning 
+Bone Armplates 
+Bone Chips 
+Bone Legplates 
+Bone Mask of the Jarsath 
+Bone Razor 
+Bone Totem 
+Bone-Clasped Girdle 
+Boneshear 
+Book of Dawn 
+Book of Obulus 
+Book of Strategy 
+Book of the Rings 
+Box of Abu-Kar 
+Box of Nil Space 
+Bracelet of Beetlekind 
+Bracelet of Frostbite 
+Bracelet of Woven Grass 
+Bracer of Scavenging 
+Bracer of Vajeen 
+Bracer of the Forlorn 
+Bracer of the Hidden 
+Bracers of Battle 
+Bracers of Erollisi 
+Bracers of the Reverent 
+Braided Cinch Cord 
+Braided Ivy Cords 
+Brazier of Elemental Summoning 
+Breath of Harmony 
+Brell's Girdle 
+Brell's Keg Popper 
+Brigandine Tunic 
+Brightwood Spear 
+Bronze Bracers 
+Bronze Breastplate 
+Bronze Main Gauche 
+Bronze Statue of Bathezid 
+Brown Chitin Protector 
+Brownie Parts 
+Bulthar Hide 
+Burnished Wooden Stave 
+Burnt Wood Staff 
+Burynai Hide Boots 
+Burynai Hide Cap 
+Burynai Hide Choker 
+Burynai Hide Cloak 
+Burynai Hide Mask 
+Burynai Hide Pants 
+Burynai Hide Tunic 
+Burynai Legion Gi 
+Burynaibane Spider Fang 
+Cane of Harmony 
+Cane of the Tranquil 
+Carrion Beetle Leggings 
+Carrion Queen Liver 
+Carved Dragonbone Spear 
+Carved Ivory Mask 
+Carved Velium Brawl Stick 
+Carved Velium Spear 
+Cat's Eye Agate 
+Ceremonial Iksar Chestplate 
+Cerulean Gauntlets 
+Chain Coif 
+Charred Boots 
+Charred Gauntlets 
+Charred Guardian Breastplate 
+Charred Guardian Shield 
+Chestplate of the Dark Flame 
+Chetari Wardstaff 
+Chipped Black Marble 
+Chipped Bone Bracelet 
+Chipped Bone Collar 
+Chipped Bone Rod 
+Chipped Onyx Sapphire 
+Chipped Velium Amulet 
+Chitin Shell Armor 
+Choker of Majdd 
+Choker of the Wretched 
+Chokidai Hide Pauldrons 
+Chokidai Hide Spaulders 
+Chrysoberyl Talisman 
+Circlet of Shadow 
+Circlet of Shadows 
+Circlet of Vallon 
+Clawed Knuckle-Ring 
+Clay Guardian Shield 
+Cloak of Crystalline Waters 
+Cloak of Flames 
+Cloak of Leaves 
+Cloak of Shadows 
+Cloak of the Maelstrom 
+Cloak of the Ry`Gorr Oracles 
+Clockwork Watchman Greaves 
+Club of the Ice Ocean 
+Cobalt Boots 
+Cobalt Bracer 
+Cobalt Breastplate 
+Cobalt Drake Belt 
+Cobalt Drake Cloak 
+Cobalt Gauntlets 
+Cold Iron Vambraces 
+Coldain Head 
+Coldain Skin Boots 
+Coldain Skin Gloves 
+Coldstone Wreath 
+Collar of Undead Protection 
+Conch Shell Horn 
+Cone of the Mystics 
+Copper Air Band 
+Coral Crescent 
+Corroded Chain Tunic 
+Corroded Plate Greaves 
+Cougar Claw Earring 
+Cracked Darkwood Shield 
+Crafted Breastplate 
+Crafted Velium Warsword 
+Crescent Blades of Luclin 
+Crested Helm 
+Crested Mistmoore Shield 
+Crested Spaulders 
+Crimson Robe of Alendine 
+Crown of King Tranix 
+Crown of Leaves 
+Crown of Narandi 
+Crown of the Forlorn 
+Crown of the Froglok Kings 
+Crushbone Belt 
+Crushbone Shoulderpads 
+Crushed Black Marble 
+Crushed Coral 
+Crushed Diamond Dust 
+Crushed Emerald 
+Crushed Flame Emerald 
+Crushed Flame Opal 
+Crushed Jaundice Gem 
+Crushed Lava Ruby 
+Crushed Nephrite 
+Crushed Onyx Sapphire 
+Crushed Opal 
+Crushed Sea Sapphire 
+Crushed Topaz 
+Crustacean Shell Boots 
+Crustacean Shell Bracers 
+Crustacean Shell Breastplate 
+Crustacean Shell Gauntlets 
+Crustacean Shell Greaves 
+Crustacean Shell Helm 
+Crustacean Shell Shield 
+Crustacean Shell Vambraces 
+Crypt Master`s Conjuring Stone 
+Crystal Chitin Armplates 
+Crystal Chitin Boots 
+Crystal Chitin Chestguard 
+Crystal Chitin Circlet 
+Crystal Chitin Gauntlets 
+Crystal Chitin Leggings 
+Crystal Chitin Shield 
+Crystal Covered Shroud 
+Crystal Fiber 
+Crystal Grinder 
+Crystal Lined Slippers 
+Crystal Spider Eyes 
+Crystal Webshield 
+Crystalline Belt 
+Crystalline Orb 
+Crystalline Robes 
+Crystalline Short Sword 
+Crystalline Silk 
+Crystalline Silk Belt 
+Crystalline Silk Cap 
+Crystalline Silk Gloves 
+Crystalline Silk Mask 
+Crystalline Silk Net 
+Crystalline Silk Swatch 
+Crystalline Spear 
+Crystalline Spider Fang 
+Crystallized Shadow Spear 
+Cured Silk Gi 
+Cured Tizmak Gloves 
+Cyclops Charm 
+Cyclops Toes 
+Dagger of Dropping 
+Dagger of Frost 
+Dagger of Marnek 
+Dareb's Skull 
+Dark Ember 
+Dark Mail Gauntlets 
+Dark Rust Bracer 
+Dark Scale Greaves 
+Dark Scale Sleeves 
+Darkforge Boots 
+Darkforge Breastplate 
+Darkforge Greaves 
+Darkforge Helm 
+Darkforge Vambraces 
+Darksea Harpoon 
+Darksight Dagger 
+Darkwood Staff 
+DawnFire, Morning Star of Light 
+Deadwood Stave 
+Deathbringer's Rod 
+Deathfist Slashed Belt 
+Deepwater Boots 
+Deepwater Bracer 
+Deepwater Breastplate 
+Deepwater Gauntlets 
+Deepwater Helm 
+Deepwater Vambraces 
+Defiance 
+Di'zok Imperial Katana 
+Di'zok Wristsnapper 
+Di`zok Begirding 
+Di`zok Escape Staff 
+Di`zok Oracle Shillelagh 
+Di`zok Sceptre of Authority 
+Diamond 
+Diamond Encrusted Staff 
+Diamond Wedding Band 
+Dire Wolf-Hide Cloak 
+Djarns Amethyst Ring 
+Donal's Bracer of Mourning 
+Donal's Gauntlets of Mourning 
+Donal's Helm of Mourning 
+Donal's Vambraces of Mourning 
+Dragon Hero Bracer 
+Dragon Horn Ykesha 
+Dragon Scales 
+Dragon Tooth Choker 
+Dragonhide Belt 
+Dragons Blood Earring 
+Dragoon Dirk 
+Drake Egg 
+Drake-hide Leggings 
+Drake-hide Sleeves 
+Drakescale Belt 
+Drakkel Icegrinder 
+Drakkel Wolfhide Gloves 
+Dreadscale Boots 
+Dreadscale Breastplate 
+Dreadscale Greaves 
+Dreadscale Vambraces 
+Drogan Obsidian Dagger 
+Drolvarg Mantle 
+Drop of Mercury 
+Drums of the Beast 
+Dustscryer's Crystal Ball 
+Dusty Bloodstained Gloves 
+Dusty Breastplate 
+Dusty Ransacker's Pack 
+Dusty Rusted Vambraces 
+Dwarf Chops 
+Dwarven Plate Boots 
+Dwarven Plate Bracers 
+Dwarven Plate Breastplate 
+Dwarven Plate Collar 
+Dwarven Plate Gauntlets 
+Dwarven Plate Greaves 
+Dwarven Plate Helm 
+Dwarven Plate Vambraces 
+Dwarven Ringmail Tunic 
+Dwarven Two-Handed Axe 
+Dwarven Work Boots 
+Earring of Blazing Energy 
+Earring of Cleansing 
+Earring of Disease Reflection 
+Earring of Essence 
+Earring of Everfount 
+Earring of Fire Reflection 
+Earring of Purity 
+Earring of Twisted Leaves 
+Earring of Woven Bark 
+Earring of the Frozen Skull 
+Earthen Blade 
+Earthshaker 
+Ebon Mace 
+Ebonwood Cudgel 
+Ebony Bladed Sword 
+Edge of the Nightwalker 
+Efreeti Long Sword 
+Efreeti Standard 
+Efreeti Zweihander 
+Elder Spiritist's Bracer 
+Elder Spiritist's Breastplate 
+Elder Spiritist's Gauntlets 
+Elder Spiritist's Helm 
+Elder Spiritist's Vambraces 
+Elder's Earring 
+Electrum Bracelet 
+Electrum Star Ruby Ring 
+Elemental Binder 
+Elf-hide Gloves 
+Elliptical Veil 
+Embalmers Skinning Knife 
+Embroidered Black Cape 
+Embroidered Black Sleeves 
+Emerald 
+Emerald Dragonscale Tunic 
+Enameled Black Mace 
+Enchanted Dwarven Breastplate 
+Enchanted Dwarven Plate Girdle 
+Enchanted Dwarven Plate Pauldron 
+Enchanted Dwarven Splinted Cloak 
+Enchanted Fine Steel Morning Star 
+Enchanted Teir`Dal Chain Tunic 
+Engraved Skull Amulet 
+Engraved Velium Spear 
+Enshrouded Veil 
+Entariz's Talisman 
+Envy 
+Essence Emerald 
+Essence of Dol 
+Essence of Moonlight 
+Essence of Rathe 
+Essence of Shadow 
+Essence of Winter 
+Etched Iron Bracers 
+Etched Velium Brawl Stick 
+Etched Velium War Lance 
+Etched Velium Warsword 
+Excellent Sabertooth Tiger Hide 
+Executioners Hood 
+Exquisite Velium Battlehammer 
+Exquisite Velium Claidhmore 
+Exquisite Velium Reinforced Bow 
+Exquisite Velium Spear 
+Exquisite Velium Warsword 
+Eye of Innoruuk 
+Eye of Melnor 
+Eyepatch of the Shadows 
+Faceguard of Bentos the Hero 
+Faded Velishoul's Tome Page 
+Faintly Glowing Diamond 
+Fancy Velvet Mantle 
+Fang Amulet of Calling 
+Faun Flute 
+Feathered Leggings 
+Fellspine's Tail 
+Fester 
+Festering Cloak 
+Fine Steel Scimitar 
+Fine Steel Warhammer 
+Finely Crafted Velium Ring 
+Fingerbone Hoop 
+Fingerbone Necklace 
+Fire Beetle Eye 
+Fire Crystal Staff 
+Fire Drake Scale 
+Fire Emerald 
+Fire Emerald Golden Bracelet 
+Fire Emerald Velium Ring 
+Fire Giant Toes 
+Fired Velium Warsword 
+Firerune Brand 
+Fish Rolls 
+Fishbone Earring 
+Fist of Zek 
+Flamesong 
+Flawed Emerald 
+Flawed Flame Emerald 
+Flawed Opal 
+Flawed Sea Sapphire 
+Flawed Topaz 
+Flawless Aquamarine 
+Flawless Diamond 
+Flayed Skin Boots 
+Flayed Skin Bracers 
+Flayed Skin Cap 
+Flayed Skin Leggings 
+Flayed Skin Sleeves 
+Flayed Skin Tunic 
+Flayed Turmoilskin Belt 
+Flowing Black Robe 
+Flowing Black Silk Sash 
+Flute of the Sacred Glade 
+Folded Velium Warsword 
+Footpads of the Tiger 
+Foreman's Skull Cap 
+Foreman's Tunic 
+Forest Loop 
+Forged Velium Warsword 
+Forlorn Totem of Rolfron Zek 
+Froglok Bonecaster's Robe 
+Froglok Scale Chestplate 
+Frost Giant Toes 
+Frostbringer 
+Frosted Gloves 
+Frozen Orb 
+Frozen Shard 
+Fruit 
+Fungi Covered Great Staff 
+Fungus Covered Scale Tunic 
+Gatorscale Leggings 
+Gatorscale Sleeves 
+Gauntlets of Brute Strength 
+Gauntlets of Fiery Might 
+Gauntlets of Iron Tactics 
+Gauntlets of Mortality 
+Gauntlets of Potence 
+Gauntlets of the Black 
+Ghostly Robes 
+Ghoulbane 
+Giant Grub Digger 
+Giant Scalemail Cloak 
+Giant Scalemail Gauntlets 
+Giant Scalemail Gloves 
+Giant Scalemail Helm 
+Giant Scalemail Leggings 
+Giant Scalemail Mantle 
+Giant Scalemail Sleeves 
+Giant Scalemail Tunic 
+Giant Sized Monocle 
+Giant Snakespine Belt 
+Giant Warrior Helmet 
+Girdle of Flayed Iksar 
+Girdle of Rapidity 
+Girdle of the Diligent 
+Glaive of Marltek 
+Gleaming Short Sword 
+Glob of Gooey Goo 
+Gloomwater Harpoon 
+Glove of Rallos Zek 
+Glowing Bone Collar 
+Glowing Club 
+Glowing Red Stone 
+Glowing Stone Band 
+Gnoll Hide Lariat 
+Gnoll Slayer 
+Gnome Skin Belt 
+Gnome Skin Boots 
+Gnome Skin Sleeves 
+Goblin Backstabber 
+Goblin Forged Iron Armplates 
+Goblin Gazughi Ring 
+Goblin Parrying Dagger 
+Goblin Parrying Spear 
+Goblin Skull Crusher 
+Goblin Slaver's Whip 
+Goblin Soul Caller 
+Gold Carnelian Wedding Ring 
+Gold Full Breastplate 
+Golden Amber Earring 
+Golden Black Pearl Choker 
+Golden Black Sapphire Earring 
+Golden Blue Diamond Pendant 
+Golden Bracer 
+Golden Cat Eye Bracelet 
+Golden Chitin Bracer 
+Golden Diamond Mask 
+Golden Efreeti Boots 
+Golden Fire Wedding Ring 
+Golden Jaded Bracelet 
+Golden Locket 
+Golden Opal Amulet 
+Golem Metal Wand 
+Golem Tear Ring 
+Gorilla Hide Mask 
+Granite Bracer 
+Granite Face Grinder 
+Gravebinder 
+Greater Lightstone 
+Greaves of Avoidance 
+Greaves of Ro 
+Green Goblin Skin 
+Green Jade Broadsword 
+Green Jade Halberd 
+Green Silken Drape 
+Greenish Metal Shard 
+Griffon Feathers 
+Griffon Talon Gloves 
+Grizzly Bear Skin 
+Groflah's Stoutbite 
+Grotesque Alloy Mask 
+Guard Captain`s Mallet 
+Guardians Mace 
+Hammerhead Helm 
+Hand Made Backpack 
+Hand Woven Leggings 
+Hand of the Reaper 
+Hardened Clay Bracelet 
+Hardened Kodiak Leather Bracer 
+Harmonic Dagger 
+Harpoon of the Depths 
+Harvester 
+Haze Panther Boots 
+Haze Panther Gloves 
+Haze Panther Leggings 
+Haze Panther Skin 
+Haze Panther Skullcap 
+Haze Panther Sleeves 
+Haze Panther Tunic 
+Haze Panther Wristbands 
+Heady Kiola 
+Heavy Dragonhide Breastplate 
+Heavy Dragonhorn Bracers 
+Heavy Dragonleg Breeches 
+Heavy Dragonskin Mask 
+Heavy Dragonwing Mantle 
+Heavy Velium Spear 
+Helm of Rile 
+Helot Skull Helm 
+Hematite 
+Herbalist's Spade 
+Hero Bracers 
+Hierophant's Cloak 
+Hierophant`s Crook 
+High Quality Bear Skin 
+High Quality Brute Hide 
+High Quality Cat Pelt 
+High Quality Cougarskin 
+High Quality Tundra Kodiak Pelt 
+High Quality Wolf Skin 
+Hill Giant Toes 
+Hollowed Bone Bracers 
+Honeycomb 
+Hooded Black Cloak 
+Howling Harpoon 
+Hulking Spiked Club 
+Human Blood 
+Ice Burrower Silk 
+Ice Giant Toes 
+Ice Silk Cap 
+Ice Silk Pantaloons 
+Ice Silk Robe 
+Ice Weave 
+Ice of Velious 
+Iceflame 
+Icepaw War Claw 
+Icy Blade 
+Idol of Woven Grass 
+Idol of the Thorned 
+Idol of the Underking 
+Iksar Berserker Club 
+Iksar Hide Boots 
+Iksar Hide Cap 
+Iksar Hide Cape 
+Iksar Hide Manual 
+Iksar Hide Mask 
+Iksar Scaled Gloves 
+Iksar Skin Gloves 
+Illegible Scroll 
+Imbued Elven Chainmail Gloves 
+Imbued Elven Chainmail Leggings 
+Imbued Elven Chainmail Sleeves 
+Imbued Fighters Staff 
+Imbued Granite Spauldors 
+Imbued Koada`Dal Mithril Collar 
+Imbued Koada`Dal Mithril Gauntlets 
+Imbued Koada`Dal Mithril Helm 
+Imbued Platinum Fire Ring 
+Imbued Shield of Paineel 
+Imbued Teir`Dal Chain Sleeves 
+Imbued Woodlanders Shield 
+Imperial Wardog Collar 
+Improved Invis vs Undead 
+Impskin Gloves 
+Incandescent Gloves 
+Incandescent Mask 
+Incarnadine Breastplate 
+Incarnadine Greaves 
+Incarnadine Helm 
+Inlaid Jade Hoop 
+Innoruuk's Word 
+Insignia Protector 
+Iron Bound Tome 
+Ivandyr's Hoop 
+Ivory Bracelet 
+Ivory Imbued Collar 
+Ivy Etched Boots 
+Ivy Etched Gauntlets 
+Ivy Etched Helm 
+Ivy Etched Sleeves 
+Ivy Etched Tunic 
+Jacinth 
+Jade Chokidai Prod 
+Jade Inlaid Spaulders 
+Jade Mace 
+Jade Meditation Hoop 
+Jade Reaver 
+Jade Shard 
+Jaded Silver Ring 
+Jagged Band 
+Jagged Blade of Mourning 
+Jagged Chokidai Spine 
+Jagged Diamond Dagger 
+Jagged Long Sword 
+Jambiya 
+Jarsath Trident 
+Jasper Gold Earring 
+Jaundice Gem 
+Jaundiced Bone Boots 
+Jaundiced Bone Bracer 
+Jaundiced Bone Gauntlets 
+Jaundiced Bone Greaves 
+Jaundiced Bone Helm 
+Jaundiced Bone Vambraces 
+Jeldorin 
+Joined Ethereal Cape 
+Journeyman's Boots 
+Journeyman's Walking Stick 
+Kejekan Tribal Headband 
+Knobbed Warclub 
+Knotted Turtlebone Ring 
+Knuckle Dusters 
+Kobold Bone Gauntlets 
+Kobold Jester's Crown 
+Kodiak Pelt 
+Krode's Shawl 
+Kromrif Head 
+Kromzek Foreman Helm 
+Kromzek Surveyor Scope 
+Kunzar Cloak 
+Kunzar Ku'juch 
+Kylong Arm Guards 
+Kylong Boots 
+Kylong Greaves 
+Kylong War Helm 
+Kylong Wrist Guards 
+Laced Veil 
+Lambent Breastplate 
+Lambent Helm 
+Lamentation 
+Large Banded Mail 
+Large Bronze Bracers 
+Large Dragonbone Shard 
+Large Soiled Bag 
+Large Splinted Bronze Cloak 
+Large Studded Gloves 
+Large Studded Tunic 
+Larrikan's Mask 
+Lasnik's Staff 
+Leather Padding 
+Leather Tunic 
+Leatherfoot Raider Skullcap 
+Leatherfoot Skullcap 
+Leering Mask 
+Left Goblin Ear 
+Library Card 
+Lieutenant's Helm 
+Light Burlap Sack 
+Light Velium Brawl Stick 
+Light Velium Spear 
+Light Velium War Lance 
+Lightstone 
+Lion-skin Leggings 
+Lionhide Backpack 
+Living Thunder Earring 
+Lizard Blood Potion 
+Lizardscale Belt 
+Lizardscale Cloak 
+Loam Encrusted Amice 
+Loam Encrusted Bracelet 
+Loam Encrusted Cap 
+Loam Encrusted Choker 
+Loam Encrusted Cloak 
+Loam Encrusted Gloves 
+Loam Encrusted Lined Shoes 
+Loam Encrusted Pantaloons 
+Loam Encrusted Robe 
+Loam Encrusted Sash 
+Loam Encrusted Sleeves 
+Loam Encrusted Veil 
+Lockjaw Hide Vest 
+Locustlure 
+Lodizal Shell Boots 
+Lodizal Shell Shield 
+Lost Staff of the Scorned 
+Low Quality Bear Skin 
+Low Quality Cat Pelt 
+Lumberjack's Cap 
+Luminary Two Handed Sword 
+Luminescent Staff 
+Lupine Claw Gauntlets 
+Lupine Dagger 
+Lupine Runed Armband 
+Lute of the Gypsy Princess 
+Lute of the Howler 
+Lyssa`s Darkwood Piccolo 
+Mace of the Shadowed Soul 
+Malachite 
+Maleficent Necromancer Doll 
+Mammoth Hide Cloak 
+Mammoth Hide Leggings 
+Man-o-War 
+Manna Robe 
+Manticore Mane 
+Mantle of Mirth 
+Maple Leaf Mask 
+Marr's Promise 
+Mask of Obtenebration 
+Mask of Secrets 
+Mask of Swirling Water 
+Mask of Wurms 
+Mask of the Dragon Slayer 
+Mask of the Eight Eyes 
+Massive Dragonclaw Shard 
+Massive Velium Claidhmore 
+Master Wu's Trance Stick 
+Matchless Dragonhorn Bracers 
+Matchless Dragonleg Breeches 
+Matchless Dragonspine Vambraces 
+Matchless Dragonwing Cloak 
+Matchless Dragonwing Mantle 
+McMerin's Feast 
+McVaxius` Horn of War 
+Mechanized Lockpicks 
+Medicine Totem 
+Medium Quality Bear Skin 
+Medium Quality Cat Pelt 
+Mermaid Scale 
+Messenger of the Queen 
+Midnight Mallet 
+Mind Melt 
+Minotaur Horn 
+Minotaur Ribcage 
+Misty Acorn 
+Mithril Amulet 
+Mithril Breastplate 
+Mithril Gauntlets 
+Mithril Greaves 
+Mithril Helm 
+Mithril Plated Girth 
+Mithril Vambraces 
+Mithril-Runed Tunic 
+Molkor Hide 
+Molten Cloak 
+Moonstone Ring 
+Morning Dew 
+Mortificator Staff 
+Mosscovered Twig 
+Mountain Death Belt 
+Mroons Toy 
+Mrylokar's Boots 
+Mrylokar's Bracer 
+Mrylokar's Breastplate 
+Mrylokar's Gauntlets 
+Mrylokar's Greaves 
+Mrylokar's Helm 
+Mrylokar's Vambraces 
+Mt. Death Mineral Salts 
+Mucilaginous Girdle 
+Mudman Enforcer 
+Mystic Koada`Dal Mithril Boots 
+Mystic Koada`Dal Mithril Cuirass 
+Mystic Koada`Dal Mithril Helm 
+Narandi's Lance 
+Nathsar Bracer 
+Nathsar Breastplate 
+Nathsar Gauntlets 
+Nathsar Greatsword 
+Nathsar Helm 
+Nathsar Leggings 
+Nathsar Vambraces 
+Necklace of Superiority 
+Nephrite 
+Netted Kelp Amice 
+Netted Kelp Bracelet 
+Netted Kelp Cap 
+Netted Kelp Cloak 
+Netted Kelp Gloves 
+Netted Kelp Lined Shoes 
+Netted Kelp Pantaloons 
+Netted Kelp Sash 
+Netted Kelp Sleeves 
+Netted Kelp Tunic 
+Netted Kelp Veil 
+Nightfall Giant's Head 
+Nightmare Hide 
+Nightshade Wreath 
+Noble's Robes 
+Noctivagant Blade 
+Oakleaf Girdle 
+Oakleaf Scimitar 
+Obsidian Bead Hoop 
+Obsidian Ring 
+Obsidian Ring of Quintessence 
+Obsidian Scimitar 
+Obsidian Shard 
+Obulus Death Shroud 
+Oil of Fennin Ro 
+Oiled Greaves 
+Onyx Drakescale Cloak 
+Onyx Earring 
+Onyx Ring 
+Opalline Earring 
+Orb of the Infinite Void 
+Orc Fang Earring 
+Ornate Rune Blade 
+Ornate Rune Shield 
+Ornate Velium Pendant 
+Ornately Runed Shell Necklace 
+Othmir Fur 
+Othmir Fur Cap 
+Othmir Prexus Totem 
+Overseer`s Signet 
+Paebala Warbone 
+Paineel Plate Gauntlets 
+Paineel Steel Breastplate 
+Paineel Steel Plate Boots 
+Paineel Steel Vambraces 
+Palladium Axe 
+Part of Tasarin's Grimoire Pg. 30 
+Patched Gnoll Fur Bundle 
+Paw of Opolla 
+Peacebringer 
+Pearly Sarnak Bauble 
+Peerless Dragonhide Breastplate 
+Peerless Dragonhorn Bracers 
+Peerless Dragonleg Breeches 
+Peerless Dragonskin Mask 
+Peerless Dragonwing Mantle 
+Pegasus Statuette 
+Petrified Erudite Heart Amulet 
+Phase Spider Blood 
+Phase Spider Carapace 
+Pickled Wyvern 
+Plains Pebble 
+Platinum Armband 
+Platinum Blue Diamond Tiara 
+Platinum Diamond Wedding Ring 
+Platinum Dragon Totem 
+Platinum Fire Wedding Ring 
+Platinum Jasper Ring 
+Platinum Ruby Veil 
+Platinum Skull Ring 
+Platinum Star Ruby Veil 
+Platinum Tiara 
+Poison Etched Wristband 
+Poison Washed Spaulders 
+Poison Wind Censer 
+Polar Bear Skin 
+Polished Bone Bracelet 
+Polished Bone Hoop 
+Polished Granite Tomahawk 
+Polished Shai`din Naginata 
+Polished Steel Dirk 
+Polished Stone Anklet 
+Potion of Purity 
+Potion of Serious Healing 
+Potion of the Bone Field 
+Prayer Cloth of Tunare 
+Prayer Shawl 
+Prayers of Life 
+Preserved Chokidai Vocal Cords 
+Prickly Pear 
+Pristine Emerald 
+Prowling Leopard Leggings 
+Pulsing Green Stone 
+Purity Belt 
+Purple Headband 
+Qeynos Kite Shield 
+Quiver 
+Rabid Chokidai Fang 
+Rain Water 
+Rapier of Oriin 
+Rat Shaped Ring 
+Ravenscale Armguards 
+Ravenscale Belt 
+Ravenscale Boots 
+Ravenscale Bracer 
+Ravenscale Chestguard 
+Ravenscale Cloak 
+Ravenscale Leggings 
+Ravenscale Mask 
+Ravenscale Neckguard 
+Ravenscale Shoulderpads 
+Reaper of the Dead 
+Reaver 
+Rebreather 
+Recurved Velium Bow 
+Red Dragon Scales 
+Red Sash of Order 
+Reed Belt 
+Reed Ring 
+Reinforced Dragonhorn Boots 
+Reinforced Dragonhorn Bracers 
+Reinforced Dragonleg Breeches 
+Reinforced Dragonskin Mask 
+Reinforced Dragonwing Mantle 
+Ring of Frost 
+Ring of Goblin Lords 
+Ring of Lightning 
+Ring of Shadows 
+Ring of Stealthy Travel 
+Ring of the Ancients 
+Ring of the Chameleon 
+Ring of the Frost Spiders 
+Ring of the Rockchanters 
+Ring of the Stonechanters 
+Riptide Spear 
+Robe of Dalnir 
+Robe of Melding Auras 
+Robe of the Elements 
+Robe of the Great Panda 
+Robe of the Ishva 
+Robe of the Kedge 
+Robe of the Oracle 
+Rod of Faith 
+Rod of Insidious Glamour 
+Rod of Oblations 
+Rokyls Channelling Crystal 
+Ropy Tendril 
+Rose Platinum Engagement Ring 
+Rose Velium Engagement Ring 
+Rotbone Bracelet 
+Royal Kromrif blood 
+Rugous Globe 
+RukGus' Sticker 
+Rune Etched Icewurm Fang 
+Rune Etched Wedding Band 
+Rune of Frost 
+Rune of Petrification 
+Rune of Substance 
+Rune of Tyranny 
+Rune of the Astral 
+Runebranded Girdle 
+Runebranded Stone Buckler 
+Runed Bolster Belt 
+Runed Bone Fork 
+Runed Circlet 
+Runed Cowl 
+Runed Falchion 
+Runed Lava Pendant 
+Runed Mithril Bracer 
+Runed Morning Star 
+Runed Oak Bow 
+Runed Sea Shell 
+Runed Shell Necklace 
+Runed Totem Staff 
+Runed Velium Battlehammer 
+Runed Velium Claidhmore 
+Rusty Spiked Shoulderpads 
+Ry'Gorr Invasion Plans 
+Ry`Gorr Battle Mail 
+Ry`Gorr Chain Bracer 
+Ry`Gorr Chain Gloves 
+Ry`Gorr Iron Armguards 
+Ry`Gorr Oracle Shield 
+Sabertooth Amulet 
+Sacrificial Dagger 
+Sage's Crown 
+Sainy's Claw 
+Sainy's Singing Dagger 
+Sand of Ro 
+Sandwich of Foul Smelling Herbs 
+Sapphire 
+Sapphire Platinum Necklace 
+Sapphire Velium Necklace 
+Sarnak Arcane Fetish 
+Sarnak Backstabber 
+Sarnak Battle Shield 
+Sarnak Battlehammer 
+Sarnak Bracer of Honor 
+Sarnak Ceremonial Dagger 
+Sarnak Devastator 
+Sarnak Eitchatka 
+Sarnak Emblazened Tabard 
+Sarnak Hide Boots 
+Sarnak Hide Girdle 
+Sarnak Liberator 
+Sarnak Parrying Blade 
+Sarnak Pitchatka 
+Sarnak Prayer Beads 
+Sarnak Skullsplitter 
+Sarnak Warhammer 
+Sarnak-Hide Mask 
+Sash of the Dragonborn 
+Sathir's Wand 
+Savant's Cap 
+Scaled Robe of the Elder Serpent 
+Scaled Wolf Hide Leggings 
+Scepter of Flame 
+Scepter of the Forlorn 
+Scimitar of the Emerald Dawn 
+Scorpikis Claw Impaler 
+Screaming Mace 
+Scute Shield 
+Sea Dragon Meat 
+Seahorse Scale Cloak 
+Seahorse Scales 
+Seahorse Spine Bracelet 
+Sebilite Croaking Dirk 
+Sebilite Scale Belt 
+Sebilite Scale Boots 
+Sebilite Scale Bracelet 
+Sebilite Scale Cap 
+Sebilite Scale Coat 
+Sebilite Scale Gloves 
+Sebilite Scale Leggings 
+Sebilite Scale Mantle 
+Sebilite Scale Mask 
+Selo`s Drums of the March 
+Sentient Bracer 
+Sentient Breastplate 
+Sentient Gauntlets 
+Sentient Greaves 
+Sentient Helm 
+Sentient Plate Boots 
+Sentient Two-Handed Axe 
+Sentient Vambraces 
+Sentry Bracer 
+Sentry Gauntlets 
+Sentry Girdle 
+Serpent's Tooth 
+Serpentine Bracer 
+Serrated Bone Dirk 
+Shadow Wolf Pelt 
+Shadowbone Earring 
+Shai`din Revenant Bauble 
+Shamanistic Shenannigan Doll 
+Shard of Darkness 
+Shard of Night 
+Shardwurm Skin 
+Shark Skin 
+Sharkbone Warhammer 
+Sharkjaw Cutlass 
+Sharkskin Drum 
+Sheer Bone Mask 
+Shield of Kurn 
+Shield of Prexus 
+Shield of Rainbow Hues 
+Shield of Shadows 
+Shield of Spectral Essence 
+Shield of the Forlorn 
+Shield of the Tsunami 
+Shield of the Water Dragon 
+Shieldstorm 
+Shimmering Opal 
+Shimmering Partisan 
+Shimmering Sapphire Ring 
+Shimmering Terror Hide Boots 
+Shimmering Terror Hide Cloak 
+Shimmering White Shroud 
+Shining Metallic Robes 
+Shiny Brass Idol 
+Shiny Brass Shield 
+Short Sword of the Ykesha 
+Shralok Pack 
+Shroud of Nature 
+Shrunken Goblin Skull Earring 
+Siblisian Berserker Cloak 
+Sickly Glowing Orb 
+Silk Swatch 
+Silken Cat-fur Girdle 
+Silken Whip of Ensnaring 
+Silver Amber Ring 
+Silver Bloodstone Earring 
+Silver Bracelet 
+Silver Chitin Hand Wraps 
+Silver Chitin Wristband 
+Silver Fire Wedding Ring 
+Silver Jasper Ring 
+Silver Opal Engagement Ring 
+Silver Rose Engagement Ring 
+Silver Swiftblade 
+Silver Sword of Yalrek 
+Silver-Plated Bracer 
+Silversilk Leggings 
+Silvery Belt of Contention 
+Silvery Girdle 
+Silvery Mask 
+Silvery War Axe 
+Singing Steel Boots 
+Singing Steel Bracer 
+Singing Steel Breastplate 
+Singing Steel Gauntlets 
+Singing Steel Helm 
+Singing Steel Vambraces 
+Sionachie's Partisan 
+Siren Scale Robe 
+Siryn Hair Hood 
+Skull of Jhen`Tra 
+Skull-shaped Barbute 
+Skullhelm of Krenlek 
+Skyfury Scimitar 
+Slime Coated Harpoon 
+Slowstone Amber 
+Sludged Girdle 
+Sly Summoner Doll 
+Small Banded Helm 
+Small Banded Leggings 
+Small Brick of Velium 
+Small Bronze Breastplate 
+Small Bronze Greaves 
+Small Wisdom Deity 
+Smokey Quartz Dagger 
+Smoldering Brand 
+Sorcerous Bowl 
+Soul Binder 
+Sparkling Soul Necklace 
+Spear of Mortification 
+Spell: Abscond 
+Spell: Acumen 
+Spell: Aegis 
+Spell: Aegis of Ro 
+Spell: Aegolism 
+Spell: Allure 
+Spell: Animate Dead 
+Spell: Asphyxiate 
+Spell: Augment 
+Spell: Augmentation of Death 
+Spell: Avatar 
+Spell: Bandoleer of Luclin 
+Spell: Bane of Nife 
+Spell: Banishment 
+Spell: Banishment of Shadows 
+Spell: Banshee Aura 
+Spell: Bedlam 
+Spell: Berserker Strength 
+Spell: Blanket of Forgetfulness 
+Spell: Blast of Poison 
+Spell: Blizzard 
+Spell: Bond of Death 
+Spell: Boon of Immolation 
+Spell: Boon of the Clear Mind 
+Spell: Boon of the Garou 
+Spell: Breath of Karana 
+Spell: Breeze 
+Spell: Burnout IV 
+Spell: Cackling Bones 
+Spell: Call of Bones 
+Spell: Call of Earth 
+Spell: Call of Fire 
+Spell: Call of Karana 
+Spell: Call of Sky 
+Spell: Call of the Hero 
+Spell: Call of the Predator 
+Spell: Cannibalize III 
+Spell: Cannibalize IV 
+Spell: Cast Force 
+Spell: Celestial Healing 
+Spell: Chill Bones 
+Spell: Chilling Embrace 
+Spell: Circle of Force 
+Spell: Circle of Summer 
+Spell: Circle of Wakening Lands 
+Spell: Circle of Winter 
+Spell: Clarity II 
+Spell: Color Shift 
+Spell: Color Skew 
+Spell: Color Slant 
+Spell: Column of Lightning 
+Spell: Conjuration: Water 
+Spell: Conjure Corpse 
+Spell: Convergence 
+Spell: Cornucopia 
+Spell: Corporeal Empathy 
+Spell: Cripple 
+Spell: Dead Man Floating 
+Spell: Dead Men Floating 
+Spell: Death Pact 
+Spell: Death Peace 
+Spell: Defoliation 
+Spell: Demi Lich 
+Spell: Dictate 
+Spell: Disintegrate 
+Spell: Divine Intervention 
+Spell: Divine Purpose 
+Spell: Divine Strength 
+Spell: Draught of Jiva 
+Spell: Egress 
+Spell: Elemental Maelstrom 
+Spell: Emissary of Thule 
+Spell: Energy Storm 
+Spell: Enforced Reverence 
+Spell: Enlightenment 
+Spell: Enslave Death 
+Spell: Enticement of Flame 
+Spell: Entrapping Roots 
+Spell: Envenomed Bolt 
+Spell: Evacuate 
+Spell: Everfount 
+Spell: Eye of Tallon 
+Spell: Feedback 
+Spell: Fire Spiral of Al'Kabor 
+Spell: Fist of Karana 
+Spell: Fixation of Ro 
+Spell: Flame of Light 
+Spell: Flaming Sword of Xuzl 
+Spell: Focus of Spirit 
+Spell: Forlorn Deeds 
+Spell: Form of the Great Bear 
+Spell: Form of the Howler 
+Spell: Form of the Hunter 
+Spell: Fortitude 
+Spell: Frost 
+Spell: Gift of Brilliance 
+Spell: Gift of Insight 
+Spell: Gift of Pure Thought 
+Spell: Gift of Xev 
+Spell: Girdle of Karana 
+Spell: Glamour of Tunare 
+Spell: Gravity Flux 
+Spell: Greater Conjuration: Air 
+Spell: Greater Conjuration: Fire 
+Spell: Greater Conjuration: Water 
+Spell: Greater Summoning: Earth 
+Spell: Greater Summoning: Water 
+Spell: Greater Vocaration: Air 
+Spell: Greater Vocaration: Water 
+Spell: Harmshield 
+Spell: Haunting Corpse 
+Spell: Heroic Bond 
+Spell: Hungry Earth 
+Spell: Ice Spear of Solist 
+Spell: Imbue Fire Opal 
+Spell: Immobilize 
+Spell: Improved Invisibility 
+Spell: Incinerate Bones 
+Spell: Infusion 
+Spell: Insidious Decay 
+Spell: Insipid Weakness 
+Spell: Intensify Death 
+Spell: Invert Gravity 
+Spell: Invoke Death 
+Spell: Invoke Shadow 
+Spell: Lava Storm 
+Spell: Legacy of Thorn 
+Spell: Levant 
+Spell: Levitate 
+Spell: Lich 
+Spell: Lightning Storm 
+Spell: Listless Power 
+Spell: Lure of Ice 
+Spell: Mala 
+Spell: Malignant Dead 
+Spell: Malo 
+Spell: Mana Sieve 
+Spell: Manastorm 
+Spell: Mark of Karn 
+Spell: Mask of the Hunter 
+Spell: Mesmerization 
+Spell: Mind Wipe 
+Spell: Minion of Shadows 
+Spell: Minor Conjuration: Air 
+Spell: Minor Conjuration: Fire 
+Spell: Monster Summoning II 
+Spell: Monster Summoning III 
+Spell: Naltron's Mark 
+Spell: Nature Walkers Behest 
+Spell: Paralyzing Earth 
+Spell: Pillage Enchantment 
+Spell: Pillar of Fire 
+Spell: Pillar of Flame 
+Spell: Pillar of Frost 
+Spell: Pillar of Lightning 
+Spell: Plainsight 
+Spell: Pouch of Quellious 
+Spell: Pox of Bertoxxulous 
+Spell: Protection of the Glades 
+Spell: Quiver of Marr 
+Spell: Quivering Veil of Xarn 
+Spell: Radiant Visage 
+Spell: Rage of Zomm 
+Spell: Recant Magic 
+Spell: Reckoning 
+Spell: Regrowth of the Grove 
+Spell: Renew Bones 
+Spell: Reoccurring Amnesia 
+Spell: Ro's Fiery Sundering 
+Spell: Scars of Sigil 
+Spell: Scent of Terris 
+Spell: Scintillation 
+Spell: Sedulous Subversion 
+Spell: Servant of Bones 
+Spell: Shadowbond 
+Spell: Shiftless Deeds 
+Spell: Shock Spiral of Al'Kabor 
+Spell: Shroud of Death 
+Spell: Shroud of Hate 
+Spell: Shroud of Undeath 
+Spell: Shroud of the Spirits 
+Spell: Spirit Quickening 
+Spell: Spirit of Oak 
+Spell: Spirit of Scale 
+Spell: Spirit of the Howler 
+Spell: Splurt 
+Spell: Strip Enchantment 
+Spell: Stun Command 
+Spell: Succor 
+Spell: Summon Corpse 
+Spell: Summon Dead 
+Spell: Summon Shard of the Core 
+Spell: Sunskin 
+Spell: Sunstrike 
+Spell: Supernova 
+Spell: Surge of Enfeeblement 
+Spell: Talisman of Jasinth 
+Spell: Talisman of Shadoo 
+Spell: Talisman of the Brute 
+Spell: Talisman of the Cat 
+Spell: Talisman of the Raptor 
+Spell: Talisman of the Rhino 
+Spell: Talisman of the Serpent 
+Spell: Tears of Druzzil 
+Spell: Tears of Solusek 
+Spell: Tepid Deeds 
+Spell: The Unspoken Word 
+Spell: Theft of Thought 
+Spell: Thicken Mana 
+Spell: Thrall of Bones 
+Spell: Thunderbold 
+Spell: Thunderclap 
+Spell: Torpor 
+Spell: Torrent of Poison 
+Spell: Translocate 
+Spell: Translocate: Group 
+Spell: Trepidation 
+Spell: Trucidation 
+Spell: Tumultuous Strength 
+Spell: Turning of the Unnatural 
+Spell: Umbra 
+Spell: Upheaval 
+Spell: Velocity 
+Spell: Vision 
+Spell: Visions of Grandeur 
+Spell: Vocarate: Air 
+Spell: Vocarate: Fire 
+Spell: Vocarate: Water 
+Spell: Voice Graft 
+Spell: Voice of the Berserker 
+Spell: Wake of Karana 
+Spell: Wake of Tranquility 
+Spell: Wakening Lands Portal 
+Spell: Wandering Mind 
+Spell: Wave of Healing 
+Spell: Wind of Tishani 
+Spell: Wind of Tishanian 
+Spell: Winds of Gelid 
+Spell: Word of Redemption 
+Spell: Word of Restoration 
+Spell: Word of Shadow 
+Spell: Word of Souls 
+Spell: Word of Vigor 
+Spell: Wrath of the Elements 
+Spell: Yaulp IV 
+Sphinx Crown 
+Spider Fang Choker 
+Spider Fur Belt 
+Spider Fur Cloak 
+Spider Fur Collar 
+Spider Fur Gloves 
+Spider Fur-Lined Boots 
+Spider Silk 
+Spiked Collar 
+Spiked Goblin Ring 
+Spiked Seahorse Hide Belt 
+Spine Chill Spear 
+Spine Piercer 
+Spined Seahorse Hide Breastplate 
+Spirit Reaver 
+Spirit Tome 
+Split Paw Hide Belt 
+Split Paw Hide Gloves 
+Split Paw Hide Mask 
+Split Paw Hide Tunic 
+Split Paw Tooth Necklace 
+Sporali Defender's Blade 
+Sporestrand Shield 
+Springwood Club 
+Spyglass 
+Squallsurge Shawl 
+Square Helm 
+Staff of Battle 
+Staff of Writhing 
+Staff of the Dreaded Gaze 
+Staff of the Earthcrafter 
+Stained Cloth Mask 
+Stalagterror Spine Spear 
+Stalking Probe 
+Starmetal Ore 
+Stave of Shielding 
+Steel Wristband of Strategy 
+Stein of Moggok 
+Stein of Tears 
+Stiletto of the Bloodclaw 
+Stormfeather Talons 
+Strange Ochre Clay 
+Strathbone Anti-Venom 
+Strathbone Shell Shield 
+Student's Homework 
+Swarmcaller 
+Swiftblade of Zek 
+Sword of Skyfire 
+Sword of the Morning 
+Symbol of Loyalty to Vox 
+Symphonic Saber 
+Tailored Quiver 
+Tainted Avalanche Ale 
+Talisen, Bow of the Trailblazer 
+Tanglewood Shield 
+Tanned Iksar Hide Leggings 
+Tar goo strands 
+Targishin's Bone Mask 
+Tattered Flesh Veil 
+Tattered Mantle 
+Tattered Silk Gloves 
+Tattered Silk Robe 
+Tattered Silk Turban 
+Tattered Tomb Shroud 
+Tears of Prexus 
+Teir`Dal Adamantite Boots 
+Teir`Dal Adamantite Bracers 
+Teir`Dal Adamantite Breastplate 
+Teir`Dal Adamantite Cloak 
+Teir`Dal Adamantite Collar 
+Teir`Dal Adamantite Gauntlets 
+Teir`Dal Adamantite Girdle 
+Teir`Dal Adamantite Greaves 
+Teir`Dal Adamantite Helm 
+Teir`Dal Adamantite Vambraces 
+Teir`Dal Adamantite Visor 
+Tempered Velium War Lance 
+Tentacle Whip 
+The History of the Greenmist 
+The Skull of Torture 
+Thex Mallet 
+Thick Banded Belt 
+Thick Grizzly Bear Skin 
+Thin Banded Belt 
+Thin Boned Wand 
+Throneblade of the Ykesha 
+Thunder Etched Gauntlets 
+Thunder Etched Pauldrons 
+Tigeraptor Leggings 
+Tigeraptor Mask 
+Tigeraptor Sleeves 
+Tiny Coin Purse 
+Tolan's Darkwood Boots 
+Tolan's Darkwood Bracer 
+Tolan's Darkwood Gauntlets 
+Tolan's Darkwood Helm 
+Tolan's Darkwood Vambraces 
+Tolapumj's Robe 
+Tombcarver 
+Tome of Miragul 
+Tome of the Eternal 
+Torch 
+Torn Enchanted Silk Wristband 
+Torque of Hoar Frost 
+Totem of the Warrior Spirit 
+Totemic Boots 
+Totemic Breastplate 
+Totemic Greaves 
+Totemic Helm 
+Totemic Vambraces 
+Trakanasaur Hide Leggings 
+Tranquil Staff 
+Treant Staff 
+Treasure Hunter`s Satchel 
+Tree Weave 
+Tribal War Boots 
+Tribal War Mask 
+Troll-hide Belt 
+Trueshot Longbow 
+Truncheon of Doom 
+Tundra Kodiak Tooth 
+Turquoise Eyepatch 
+Turtleshell Helm 
+Twisted Bone Earring 
+Twisted Nature Chestguard 
+Ulthork Hide Skullcap 
+Unadorned Breastplate 
+Unadorned Chain Bracer 
+Unadorned Chain Leggings 
+Unadorned Leather Boots 
+Unadorned Leather Gloves 
+Unadorned Leather Leggings 
+Unadorned Plate Bracer 
+Unadorned Plate Gauntlets 
+Unadorned Plate Helmet 
+Vambraces of Avoidance 
+Vegetables 
+Vehement Sword of Reivaj 
+Velium Battle Axe 
+Velium Blue Diamond Bracelet 
+Velium Brawl Stick 
+Velium Crystal Staff 
+Velium Diamond Wedding Ring 
+Velium Encrusted Gauntlets 
+Velium Fire Wedding Ring 
+Velium Jacinth Wedding Ring 
+Velium Jasper Ring 
+Velium Knuckledusters 
+Velium Mastodon Fur Cloak 
+Velium Round Shield 
+Velium Ruby Veil 
+Velium Spear 
+Velium Studded Cloak 
+Velium Swiftblade 
+Velium War Mask 
+Velium Warhammer 
+Velketor's Spell Book 
+Venomous Axe of the Velium Brood 
+Vhal`Sera Skull Earring 
+Vial of Egg Whites 
+Vial of Roiling Gas 
+Vial of Vampire Blood 
+Vial of Viscous Mana 
+Viik's Dark Defender 
+Visions of Sebilite 
+Wakizashi of the Frozen Skies 
+Walrus Skin Drum 
+Walrus Tooth 
+Walrusbone Shield 
+Wand of Allure 
+Wand of Conflagration 
+Wand of Darkness 
+Wand of Frost Bolts 
+Wand of Swords 
+War Wolf Choker 
+Watchman Boots 
+Water Sprinkler of the Forgiven 
+Wavecrasher 
+Weighted Velium Battle Axe 
+Werewolf Pelt 
+Werewolf Skin Cloak 
+Werewolf-hide Jerkin 
+White Bear Pelt Cloak 
+White Crown 
+White Dragon Tooth 
+White Gold Necklace 
+White Scaled Leggings 
+White Scaled Tunic 
+White Wolf-hide Cloak 
+White Wolf-hide Girdle 
+Wing of Xegony 
+Winters Fury 
+Wintry Club 
+Withered Leather Belt 
+Withered Leather Gloves 
+Withered Leather Gorget 
+Withered Leather Mask 
+Withered Leather Shoulderpads 
+Withered Leather Skullcap 
+Withered Leather Sleeves 
+Withered Leather Tunic 
+Withered Staff 
+Withered Totem of Widdershins 
+Woe 
+Wolf's Eye Golden Bracelet 
+Wolves Bane 
+Woodsman's Staff 
+Words of Bidding 
+Words of Bondage 
+Words of Cazic-Thule 
+Words of Derivation 
+Words of Discernment 
+Words of Purification 
+Words of Spirit 
+Words of Wealth 
+Words of the Element 
+Words of the Ethereal 
+Words of the Spoken 
+Worked Dragonhorn Boots 
+Worked Dragonhorn Bracers 
+Worked Dragonleg Breeches 
+Worked Dragonskin Mask 
+Worked Dragonspine Vambraces 
+Worked Dragonwing Cloak 
+Worked Dragonwing Mantle 
+Worn Cloth Mantle 
+Worn Shai`din Naginata 
+Woven Grass Amulet 
+Woven Vine Wristband 
+Wraith Bone Hammer 
+Wrapped Entropy Serpent Spine 
+Wrapped Velium Bow 
+Wrapped Velium Brawl Stick 
+Writ of Di`zok 
+Writ of Quellious 
+Wu's Fighting Gauntlets 
+Wu's Fighting Mask 
+Wu's Fighting Shirt 
+Wu's Fighting Sleeves 
+Wu's Quivering Staff 
+Wurm Scale Coat 
+Wurmslayer 
+Wyvern Claw 
+Wyvern Claw Mask 
+Yew Leaf 
+Ykeshan War Club 
+Zealot's Incarnadine Sword 
+Zlandicar's Heart 
+Zombie Skin 
